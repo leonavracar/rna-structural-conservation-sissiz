@@ -1,0 +1,46 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AFUO01000001.1/ auuagauaaagaccuccuaacuuuauuuaau-gaaauccuaau-ccuu-ucuuuuucauc
+AEVD01000014.1/ auuaaguaaagaccuccuaacuuuauuuaauagaaauccuaaa-cuuu-ucuuuuucaua
+AFUQ01000012.1/ auuaaguaaagaccuccuaacuuuauuuaauagaaauccu-aa-cuuu-ucuuuuucaua
+AFUT01000008.1/ auugagua----------accuuuauuuaauaaaaauccuaaa-cuuu-ucuuuuucaua
+AEDX01000018.1/ auuaaguaaagaccuccuaacuuuauuuaau-aaaauccuaaa-cuuu-ucuuuuucaua
+AFGS01000002.1/ guuacaagaagaccuccuaacuuguuguaacaaauauccuaaa-cuuu-ucuuuuucaua
+AEDT01000020.1/ guuacaagaagaccuccuaacuuguuguaacaaauauccuaaa-cuuu-ucuuuuucaua
+AGOC01000002.1/ guuacaagaagaccuccuaacuuguuuuaacaaauauccuaaa-cuuuaccuuuuucaua
+AEVC01000021.1/ aucaaaugaagaccuccuaacuuuauuugauagaaauccuaaa------acuuuuucaua
+CP002843.1/1645 a-ucaucaaagaccuccuaacuuugaaugauaaaacuccuaaa------acuuuuucaua
+AFXN01000009.1/ aucaaaugaagaccuccuaacuuuauuugau-gaaauccuaa-------acuuuuucaua
+ADME01000011.1/ aucaaaugaagaccuccuaacuuuauuugau-gaaauccuaaa------acuuuuucaua
+AFUU01000003.1/ auuaaauaaagaccuccuaacuuuauuuaauagaaauccuaa-------auuuuuucaua
+ACRK01000007.1/ auuaaauaaagaucuccuaacuuuauuuaauuagaauccuaa-------acuuuuucaua
+AEVE01000049.1/ cauaaacaaagaccuccuaacuuuguuua---aaccuccuaa-------acuuuuucaua
+AFFO01000018.1/ cauaaacaaagaccuccuaacuuuguuua---aaaauccuaa-------acuuuuucaua
+AFBA01000002.1/ cauaaacaaagaccuccuaacuuuguuua---gaaauccuaaaacuuu-ucuuuuucaua
+AEXA01000004.1/ uauaaacaaagaccuccuaacuuuguuua---gaaauccuaaaacuuu-ucuuuuucaua
+AFQU01000001.1/ cauaaacaaagaccuccuaacuuuguuua---gaaauccuaaa------acuuuuucaua
+ACOI01000013.1/ aucaaauaaaaa-cuccuaauuuuauuugau-aguauccuaa-------ucuuuuucaua
+                       .          *  **    *.   ..  **** *         ******** 
+
+AFUO01000001.1/ auaaucucccuaaagaggccacccaauc----agguggcuuuuuu-
+AEVD01000014.1/ auaaucucccuaaagaagccaccaaauc----agguggcuuuuuu-
+AFUQ01000012.1/ auaaucucccuaaagaagccaccaaauc----agguggcuuuuuu-
+AFUT01000008.1/ auaaucucccuaaagaagccaccaaauc----agguggcuuuuug-
+AEDX01000018.1/ auaaucucccu--ugacuccacccaauc----agguggaguuuuu-
+AFGS01000002.1/ auaaucucccu--uaacuccacccaauc----agguggaguuuuu-
+AEDT01000020.1/ auaaucucccua-uaaagucaccgcauu----cgguggcuuuuuu-
+AGOC01000002.1/ auaaucucccua-uagagucaccgcauu----cgguggcuucuuu-
+AEVC01000021.1/ auaaucuccc-auaagagccaccaaauu----cgguggcuuuuuu-
+CP002843.1/1645 auaaucucccuauaagagccaccaaaac----cgguggcuuuuuu-
+AFXN01000009.1/ auaaucucccuauaaagaucaccaaa------aggugaucuuuuug
+ADME01000011.1/ auaaucucccuauaagggucaccaaag-----agguggccuuuuu-
+AFUU01000003.1/ auaaucuccu-agggaagcuaccauga-----ggguagcuuuucu-
+ACRK01000007.1/ auaaucuccu-agaaaagcuaccauga-----ggguagcuuuucu-
+AEVE01000049.1/ auaaucuccc-auaagagucgcccaau-----cggcggcuuuuuu-
+AFFO01000018.1/ auaaucuccu---gaaagucaccccag-----ugguggcuuuuac-
+AFBA01000002.1/ auaaucucccuauaaaaaccgcccaau-----uggcgguuuuuuu-
+AEXA01000004.1/ auaaucucccuauaagaaccgcccaau-----uggcgguuuuuuu-
+AFQU01000001.1/ auaaucuccaaaacaccgcuguucuauuaugacagugguguuu---
+ACOI01000013.1/ auaaucucccc--aaaagucaccau-------cgguggcuuuuuu-
+                *********     .     .            .* ..  * *   

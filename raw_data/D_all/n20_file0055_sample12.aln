@@ -1,0 +1,68 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AACY021413889.1 guaucgaaaugcauggugggaaaucagugugaaauucauuggcuguuccugcaaagguua
+AACY020473610.1 guguugaaaugcauggugggaaauaagugugaaauucacuagcuguuccugcaacgguaa
+AACY020138480.1 auacugaaaugcauggugggaaaucagugugaaauucauuggcuguuccugcaacgguua
+AACY023694593.1 guacugaaaugcauggugggaaaucagugugaaauucauuggcuguuccugcaacuguua
+AACY023022368.1 auacugaaaugcauggugggaaaucagugugaaauucauuggcuguaccugcaaccg-ua
+AACY020090121.1 auacugaaaugcauggugggaaaucagugugaaauucauuggcuguuccugcaaccg-ua
+AACY021482365.1 guacugaaaugcauggugggaaaucaguguguaauucauuggcugugccugcaaccg-ua
+AACY020346148.1 guacugaaaugcauggugggaaaucaauguguaauucauuggcuguaccugcaaccg-ua
+AACY023625703.1 auacugaaaugcauggugggaaaucagugugaaauucauuggcuguuccugcaaccg-ua
+AACY020898569.1 auacugaaau--uugguggggaaucagugugaaauucauuggcucuaccuggaaccg-ua
+AACY023740574.1 uagcugaaag--uuggugggaaaucagugugaaauucauuggcuguuccugcaaccg-ua
+AACY020700152.1 auacugaauc--guguuggggaagcaaggugaaauaccauggcucuaccaggaaccg-ua
+AACY023366733.1 u--------------guuggggaucaaggugaaauuccauggcucuaccaggaaccg-ua
+AACY024099162.1 auacugaaaugcauggugggaaauuaguguguaauucacuugcuguaccugcaaccg-ua
+AACY020260549.1 auacugaauc--uugacggggaauuagugcgaaauucacuugcuguuccugcaaccg-ua
+AACY022552060.1 guacugaaaaagugaguggggaaucagugugaaauucacuagcuguaccugcaacgguua
+AACY021405153.1 auacugaaaagcauggugggaaa-uaaugugcaaaucauuagcuguuccugcaacgguaa
+AACY022070905.1 auaucgaauc--uugauggggaa-uaaugugcaaaucauuagcuguuccugcaacgguaa
+AACY023786175.1 auacugaau---uugguggaaaaucaaugugaaauucauuaauucuuccuggaaccguua
+AACY023711012.1 gugcu-aaaagcauggugggaaagugacguguaauucguccacauuacuugauacgguua
+                                  *...*  .. * * **  *    .   * *  *  *  *  *
+
+AACY021413889.1 -----------aaguccuagcgccacccgauauaguccgcuguugaa-----ugaaggcc
+AACY020473610.1 -----------aaguccgagcgccacccaacauaguccgaugucgaa-----ugaaggcc
+AACY020138480.1 -----------uaguccgagcgccacccaguauaguccgcuguugaa-----caauggcc
+AACY023694593.1 -----------uagucaaagcgccacccaguacagcccguuguugaa-----cgaagguc
+AACY023022368.1 -----------aagucggagcgccacccaguaaaguccgcuguugaa-----ugagggcc
+AACY020090121.1 -----------aagucggagcgccacccgguauagaccccugucgaa-----ugauggcc
+AACY021482365.1 -----------aagucggagcgccacccaguauaguccgcuguugaa-----ugauggcc
+AACY020346148.1 -----------aagucggagcgccacccaguauaguccgcuguugaa-----caauggcc
+AACY023625703.1 -----------aagucggagcgccacccgguauaguccgcuguugaa-----ugauggcc
+AACY020898569.1 -----------aagucggagcgccacccaguauaguccguuguugaa-----ugaaggcc
+AACY023740574.1 -----------aagucggagcgccacccagcuaaguccgcugu-gaa-----ugaaggcc
+AACY020700152.1 -----------uagucggagugccaaccaguauaguccgcugucgaa-----ugaaggcc
+AACY023366733.1 -----------aagucggagugccaaccaguauaguccgcuguugaa-----ugagggcc
+AACY024099162.1 -----------gagucggagcgccacccaguauagaccccuguggaa-----uuaaggcc
+AACY020260549.1 -----------uagucggagugccguccaguauaguccgcuguugag-----cgauggcc
+AACY022552060.1 -----------aaguccgagcgccacccaguauaguccgcugucgaa-----uuaaggcc
+AACY021405153.1 agauaaaaucuaaguccgagcgccacccaguauaguccgcuguugaa-----ugaaggcc
+AACY022070905.1 -----------aagaccgagugccauccgauacagaccguugucgaa-----ugaaggcc
+AACY023786175.1 -----------aagucggagcaccacccuguagaguccgguguugaa-----ugaugaac
+AACY023711012.1 -----------uaguccgaaugccaccuagcacaaaguagagcaaggagacucaaugauu
+                            ** *  *. .**. *  .   *.      *  ...       * *.  
+
+AACY021413889.1 aggaaaaguc-uaguucu--gcaauuuaaau
+AACY020473610.1 aggaaaaguc-uaauucu--acaauuuaaau
+AACY020138480.1 aggaaaaguc-uaguucu--acaauuaaauu
+AACY023694593.1 aggaaaaauc-uaguucu--gcaauuuuuaa
+AACY023022368.1 agggagaguc-uaguucu--acuaauaucua
+AACY020090121.1 aggaaaagcc-uaguucu--gcaaaauagca
+AACY021482365.1 aggaaaaguc-uaguucu--acaauuaaaaa
+AACY020346148.1 aggaaaaguc-uaguucu--acaaugaaaaa
+AACY023625703.1 aggaaaaguc-uaguucu--acaaugagaaa
+AACY020898569.1 agggaaaguc-uaguucu--acuaauaauaa
+AACY023740574.1 aggaaaaguc-uaguucu--acaaugaaaaa
+AACY020700152.1 ugggaaaguc-uaauucu--acaauguaaag
+AACY023366733.1 ugggaaaguc-uaguucu--acaauguauau
+AACY024099162.1 aggaaaaguu-uuaauuuuuacaaauuugca
+AACY020260549.1 aggaaaagcc-uaguucu--gcaauuuaauu
+AACY022552060.1 aggaauagucuuacuucu--acaauuaaaaa
+AACY021405153.1 aggaaaaguc-uaguucu--aagaugaaaaa
+AACY022070905.1 aggaaaaguc-uaguucu--acaauuuaaaa
+AACY023786175.1 aggaaaauuc-uaguucu--acaauuuuaau
+AACY023711012.1 agaauaauuc-u-------------------
+                 *..  *    *                   

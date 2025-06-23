@@ -1,0 +1,68 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+X06810.1/261-42 auacuuaccuggacggggucaa-uggaugaucaauaagguccauggccuagggaaguaac
+J03563.1/352-51 auacuuaccuggacggggucaa-uggaugaucuauaagguccauggccuagggaagugac
+X14414.1/152-31 auacuuaccuggacggggucaa-uaggcgaucaauaagacccauggccuagguuggugac
+Z11881.1/1515-1 auacuuaccuggacggggucaa-ugggcgaucaauaagaccuauggccuaggcuugugac
+X15927.1/1-160  auacuuaccuggauggggucaa-ugggugaucaagaaggcccaugg-cuaggcaagugac
+X15926.1/1-161  auacuuaccuggauggggucga-ugggugaucaugaaggcccaugg-cuaggauugugac
+M14387.1/399-56 auacuuaccuggcaggggagau-accaugaucacgaaggugguuuucccagggcgaggcu
+M14586.1/106-26 auacuuaccuggcaggggagau-accaugaucacgaaggugguuuucccagggcgaggcu
+M14587.1/106-26 auacuuaccuggcaggggagau-accaugaucacgaaggugguuuucccagggcgaggcu
+X00549.1/150-31 auacuuaccuggcaggggagau-accaugaucaugaaggugguucucccagggcgaggcu
+X02585.1/923-10 auacuuaccuggcaggcgagau-accaugaucacgaaggugguucucccagggcgaggcu
+X01092.1/374-53 auacuuaccuggcaggggagac-accaugaucaggcaggugguuuucccagggcgaggcu
+Y00131.1/944-11 auacuuaccuggcaggggagau-accaugaucaugaaggugguuuucccagggcgaggcu
+AY198212.1/1-16 auacuuaccuggcacaggggau-accacgaucaccaaggugguucccccaagacgaggcu
+AY198211.1/1-16 auacuuaccuggcacaggggau-accacgaucaccaaggugguucccccaagacgaggcu
+X04994.1/620-78 auacuuaccuggcgcagggguc-gcauugaucaagaaggaugcacccccagggcgaggcu
+X53541.1/1195-1 auacuuaccuggcguagagguuaaccgugaucacgaaggcgguuccuccggagugaggcu
+L25917.1/1-158  aaacuuacuuggcgccgggacc-agggugaucacgaaugcccuggccccagguggaggcu
+X63783.1/1394-1 uuacuuaccuggcuggaguuag-cuaucgaucaugaaggguagcggcuuaggguggagca
+M29062.1/238-38 uuacuuaccuggcaugaguuuc-ugcagcacaagaauuguggagacucaguuauuugucu
+                  ****** ***     .           *        .          .          
+
+X06810.1/261-42 cu-ccauu---gcacuuaggaggggugcuuuccuaaggucugcccaaguggcagagccu-
+J03563.1/352-51 cu-ucauu---gcacucagaaggggugcuacucuaaggucuguccaagugauggagccu-
+X14414.1/152-31 cu-ccauu---gcacuuuggaggggugccaaucuaaggucggcccaaguggucgagccu-
+Z11881.1/1515-1 cu-ccauu---gcacuuuggaggggugccugccuaaggucggcccaaguggucgagccu-
+X15927.1/1-160  cu-ccauu---gcacuuaggaggggugcuagccuaaggucuacccaagugguggagccu-
+X15926.1/1-161  cu-ccauu---gcacuuaggaggggugcuuuccuaaggucuacccaagugguggagccu-
+M14387.1/399-56 uauccauu---gcacuccggaugugcugaccccugcgauuuccccaaaugugggaaacuc
+M14586.1/106-26 uauccauu---gcacuccggaugugcug-ccccugcgauuuccccaaaugugggaaacuc
+M14587.1/106-26 uauccauu---gcacuccggaugugcug-ccccugcgauuuccccaaaugugggaaacuc
+X00549.1/150-31 cagccauu---gcacuccgguugugcugaccccugcgauuuccccaaaugcgggaaacuc
+X02585.1/923-10 cagccauu---gcacuccggcugugcugaccccugcgauuuccccaaaugcgggaaacuc
+X01092.1/374-53 cauccccu---gcacuccgggugugcugaccccugcgauuuccccaaaugcgggaaacuc
+Y00131.1/944-11 cacccauuugcacuguuggggugugcugaccccugcgauuuccccaaaugcgggaaacuc
+AY198212.1/1-16 ca-ccauu---gcacuccgguggcgcugacccuugcgaugaccccaaauguggguuacuc
+AY198211.1/1-16 ca-ccauu---gcacuccgguggcgcugacccuugcgaggaccccaaauguggguuacuc
+X04994.1/620-78 ug-ccauu---gcacuccggcu-ugcugaaccuugcgauucccccaaacguggggaacuc
+X53541.1/1195-1 uggccauu---gcaccucggcugaguugaccucugcgauuauuccuaaugugaauaacuc
+L25917.1/1-158  cg-ccauu---gcacuccggcg-uguugaagccugcgacgaucccuaauugggugcgcuc
+X63783.1/1394-1 gg-ucauu---gcacaaaagaugucuguaauaccuuauuguuccccgugcggggaaccga
+M29062.1/238-38 ug-gcauu---gcacugagcccugacgaauaacuguggacuggcuaag---gucagcucc
+                    *  *   .*     .                 .      *  .             
+
+X06810.1/261-42 -acgucauaauuugugg-uagugggggcuugcguucgcgcagccccu----uc
+J03563.1/352-51 -acgucauaauuugugg-uagugggggccugcguucgcgcggccccu----ua
+X14414.1/152-31 -acgucauaauuuguug-cugugagggccuguguucgcgcggccccu----gc
+Z11881.1/1515-1 -acgucauaauuuguua-cagcgggggccugcguucgcgcggcccua----cc
+X15927.1/1-160  -acaucauaauuuguug-cugugggggccuguguucgcgcggccccc----uc
+X15926.1/1-161  -acaucauaauuuguugccugagggggccugcguucgcgcggccccc----ac
+M14387.1/399-56 gacugcauaauuugugg-uagugggggacugcguucgcgcuuucccc----ug
+M14586.1/106-26 gacugcauaauuugugg-uagugggggacugcguucgcgcuuucccc----ug
+M14587.1/106-26 gacugcauaauuugugg-uagugggggacugcguucgcgcuuucccc----ug
+X00549.1/150-31 gacugcauaauuucugg-uagugggggacugcguucgcgcuuucccc----ug
+X02585.1/923-10 gacugcauaauuucugg-uagugggggacugcguucgcgcuuucccc----ug
+X01092.1/374-53 gacugcauaauuugugg-uagugggggacugcguucgcgcucucccc----ug
+Y00131.1/944-11 gau--gcaaauuugugg-uagugggggacugcguucgcgcucucccc----ug
+AY198212.1/1-16 ggguguguaauuucugu-uagcuggggacugcguucgcgcuuucccc----uu
+AY198211.1/1-16 ggguguguaauuucugu-uagcuggggacugcguucgcgcuuucccc----uu
+X04994.1/620-78 gggcguacaauuuauga-uagcggagaucugcguucgcgcuaucucc----ua
+X53541.1/1195-1 gugcguguaauuuuugu-uagccgggaauggcguucgcgccgucccg----ac
+L25917.1/1-158  ggacgcguaguuuuugu-caguggggag--gucuucggaucauccuu------
+X63783.1/1394-1 aacagcacaauuucugc-uaggggagacgugcacuuagugcugucuc----cg
+M29062.1/238-38 ggaugcaucauuuuuga---------------guucgucccucauuuggggca
+                         .*** *                   * .                

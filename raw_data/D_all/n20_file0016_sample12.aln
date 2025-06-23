@@ -1,0 +1,68 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+U77945.1/1848-1 aaccgccgugua------cggaaccguacgcacgguggugugagaggacggcgggu----
+AB022308.1/6486 gaacgccguaugcug---gaaacucgccuguacggugugaagugggggaaaagcuggaga
+DQ787115.1/750- gaacgccguaugcggu--gaaagucgcacguacgguguggagcgggggaaaaauuggaga
+AJ131145.1/1727 uugagccguaugcgag--gaaacuugcacgugcgguucuuugagggggggaagcuuga--
+AF029891.1/4522 uugagccguaugccau--gaaaguggcacguacgguucugagggggggaaagucuga---
+AJ277126.1/2879 uucagccgugugcggu--gaaagucgcacgcacgguugugagggggggaaaaucugu---
+Z00044.2/44465- cugagccguaugagguaagaaauucucaaguacgguucuaagggaaggaau---------
+X05422.1/3488-3 uugagccguacgagau--gaaauuuucauauacgguucucggagggggagucg-------
+X57546.1/2817-2 gagagccguaugauau--gaaaguaucacguacgguucggagagggcucucuuauaugau
+L36897.1/2659-2 gaaagccguaugaugg--gaaacuaucacguacgguuugggaaaggcucuuuaacacgug
+V00712.1/1227-1 gagagcuuuuugcggg--gaaacuugcaagucaaguuuggggggaggcgggcgucgaccc
+X17395.1/1934-1 gagagcuuuuugcggg--gaaacuugcaaguacaguuuggggggaggcgggcgucgaccc
+V00166.1/1829-1 gagagcacaguacgau--gaaaguuguaagcuguguucgggggggaguuauugucuaucg
+X04465.1/8-84   agaagccguaugaaau--gaaaauaucaaguacgguuuuguaaagugacaauuua-----
+AB027572.1/1941 aggagccgaaugaaau--caaaauuucauguucgguuuugaauuagagacguuaaa----
+M15176.1/580-65 aggagcuggaugagaa--gaaacucucauguccaguuuuguaguagagauggaacu----
+Y18999.2/2881-2 uugagccggaugaggg--gcgacucucauguccgguucuuaggggacggcggcgc-----
+AF143421.1/868- gugagccgugugaugg--gaaaccuccccgcacgguucggagagcacuuaauuagaaugu
+X02819.1/3326-3 gagagccguauaauuac-gaaaguaucccguacgguucggugacgagccgugucaacccu
+X86563.2/124917 aagagcgcaguacaacg-gggaguuguaugcugcguucgggaaggauggaucgcucccga
+                    **     .        .*       .    **     .                  
+
+U77945.1/1848-1 ------------------------------------------------------------
+AB022308.1/6486 uaacu-----------------------------------------------------uc
+DQ787115.1/750- uaaca-----------------------------------------------------uc
+AJ131145.1/1727 ------------------------------------------------------------
+AF029891.1/4522 ------------------------------------------------------------
+AJ277126.1/2879 ------------------------------------------------------------
+Z00044.2/44465- ------------------------------------------------------------
+X05422.1/3488-3 ------------------------------------------------------------
+X57546.1/2817-2 uguuauuacaaucag---------------------------------------------
+L36897.1/2659-2 gcaac-------------------------------------------------------
+V00712.1/1227-1 aac---------------------------------------------------------
+X17395.1/1934-1 uac---------------------------------------------------------
+V00166.1/1829-1 uuggc--------------------cucuaugguagaaucagucgggggaccugagaggc
+X04465.1/8-84   ------------------------------------------------------------
+AB027572.1/1941 ------------------------------------------------------------
+M15176.1/580-65 ------------------------------------------------------------
+Y18999.2/2881-2 ------------------------------------------------------------
+AF143421.1/868- uccuggggguaccacaucauugcaaggguaaaagagcucgauucgcagauugguucgacc
+X02819.1/3326-3 gcaaa-------------------------------------------------------
+X86563.2/124917 aaaggagucuauugauucucu---------------cccaauugguuggaucguaggggc
+                                                                            
+
+U77945.1/1848-1 gugaauccgccuccuacucg----au
+AB022308.1/6486 aaaagcuuaccuaucacu------au
+DQ787115.1/750- aaagauuuaccuaucgcu------au
+AJ131145.1/1727 aagagccuacccaucccg------au
+AF029891.1/4522 gaggaccuaccuauccca--------
+AJ277126.1/2879 gaagaucuaccuaucccg------au
+Z00044.2/44465- --ugaacuaccuauuccg------gc
+X05422.1/3488-3 ggcuaguuaccuaucuca------au
+X57546.1/2817-2 auagguuugcuacucu--------ac
+L36897.1/2659-2 auagguuaauuugcuauuuc----au
+V00712.1/1227-1 ------------------------cu
+X17395.1/1934-1 --------------------------
+V00166.1/1829-1 ggugguuuacccu-----------gc
+X04465.1/8-84   gguaacuuauuugucaacuuuu--cc
+AB027572.1/1941 aauaaucaaccaacgucgacuauaac
+M15176.1/580-65 aagaaggaaccaucgacuau---aac
+Y18999.2/2881-2 aguaaugcgcugcuguuacccg--ac
+AF143421.1/868- cggaauucacuuccgacccu----gu
+X02819.1/3326-3 gggaaugcgucuuaguuca-----au
+X86563.2/124917 gaugauuuacuuc-----------ac
+                                          

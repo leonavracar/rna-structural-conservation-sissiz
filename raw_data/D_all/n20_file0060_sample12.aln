@@ -1,0 +1,46 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AACY024016529.1 aaacguucaacuugcga---uaagcaagccgcaaaucgacuuaagccauggaacggggac
+BX569695.1/2643 agacguucaccucgccagccucggcaaggcgcaguucgacucaggccauggaacggggac
+CP000111.1/1396 aaucguccgaucugcca--ucugauagaccgcaguacgacucaagccauaggacggggac
+AACY021709640.1 aaucguccgaucuacca--ucugauagaccgcaguacgacucaagccauaggacggggac
+AACY021821135.1 aaacguucaucucg-----uuuuacgagccgcauuaagauugaagccaaggaacggggac
+AACY023361774.1 aaacguucaucucg-----uuuuucgagccgcauuaagauugaagccaaggaacggggac
+AACY020358273.1 aaacguucacccug-------auacagggcgcagugguucgcaggucauggaacgggggc
+AACY023380677.1 uuucguucacccuc------auuugagggcgcaguucgagucauaccauggaacggggga
+AACY021901675.1 uuucguucacccuc-------uuugagggcgcaguucgagucauaccauggaacggggga
+AACY024015920.1 aaccguucauccua-------uuuaaggacgcaguucgagcuauuccagggaacgggggu
+AACY020828527.1 aaacguucaccccugu-----uucgggggcgcag-acacuccaagccacggaacggggac
+AACY022969230.1 aaucguucacuccguua----ucgcggagcgcag-ucaagccaggccauggaacggggac
+BX569690.1/2766 caacguucaccucucc---ucgcgggaggcgcag-acaagccaggccauggaacggggac
+AACY022514146.1 cuacguucauccaa-----uuuauuuggacgca--uuauaagagaauagggaacgggauu
+AACY021282448.1 uaacguucauccaaguuuauaucucuggacgca--ugaaaugggaguagggaacgggauu
+AACY021140337.1 auacguucgccuca-----acucauggggugca--ucaaauggaaguagggaacgggauu
+AACY022928932.1 guacguucacccuu----------cggggcgcauaucuacca--ugcauggaacggggca
+AACY020558859.1 guccguucaucccg--------caagggacgcaugacaccca--agcauggaacggggcu
+AACY020087445.1 guccguucaucccu--------uacgggacgcaugacaacua--agcauggaacggggcu
+AACY023231803.1 guccguucaucccg--------caagggacgcaugacaugaggugacauggaacgggguc
+                   *** *.                 ..  ***              * .*.*****.  
+
+AACY024016529.1 uuaag
+BX569695.1/2643 cugag
+CP000111.1/1396 uugag
+AACY021709640.1 uugag
+AACY021821135.1 uucag
+AACY023361774.1 uucag
+AACY020358273.1 cuguu
+AACY023380677.1 uggc-
+AACY021901675.1 uggc-
+AACY024015920.1 auagc
+AACY020828527.1 uugga
+AACY022969230.1 cugga
+BX569690.1/2766 cugga
+AACY022514146.1 cuc--
+AACY021282448.1 cucau
+AACY021140337.1 uccag
+AACY022928932.1 ugga-
+AACY020558859.1 ugga-
+AACY020087445.1 uagu-
+AACY023231803.1 ccuca
+                     

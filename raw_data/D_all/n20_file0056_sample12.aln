@@ -1,0 +1,46 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+CP000813.1/2738 aggagaugaucacaugcuaaguu--cgcuacaucguguagcaacgcaugugugauaugca
+CP000813.1/5319 aggaaaugaucacaugcuaaguu--cgcuacaucguguagcaacgcaugugugauaugca
+AAOX01000014.1/ aaucaaggaacgcaggcuaaaac--cgccacguccuguggcaacgccugcaugacccgca
+AAOX01000014.1/ aaucaaggaacgcaggcuaaaac--cgccacguccuguggcaacgccugcaugacccgca
+AAOX01000004.1/ cccuaaggaacgcagacuaagaa--cgccacguccuguugcaacgucugcaugacccgca
+AAOX01000009.1/ cacuaaggaacgcagacuaagaa--cgccacguccuguggcaacgucugcaugacccaca
+AAOX01000001.1/ gauuaaggaucgcggacuaaaaa--cgccacguccuguggcaacguccgcaugacccgca
+AAOX01000017.1/ aauaaaggaacgcggacuaagaa--cgccacguccuguggcaacguccgcaugacccgca
+AAOX01000027.1/ aauagaggaacgcggacuaagag--cgccacguccuguggcaacguccgcaugacccgca
+AAOX01000026.1/ ccuuaagaaacgcagacuaagaa--cgccacguccuguggcaacgucugcauggcuccca
+AAOX01000004.1/ ccuuaaggaacgcagacuaggaa--ugccgcauccuguggcaacgucugcauggccagcu
+X04164.1/339-27 auaaauggaucacagguuaaguu--caccgcauccugcggcgacaccugugugaccugcg
+AE017333.1/3928 aggcaaggaaacucggcuaaaggc-ccucacauccugugaggaacgcccagu-accuucg
+CP000002.3/6167 aggcaaggaaacucggcuaaaggc-ccucacauccugugaggaacgcccagu-accuucg
+BA000028.3/3404 caggggggaccuucugcuaaaauc-gcccacguccugugggcaacgcagaaaucaccaca
+BA000028.3/6752 aaauaaggaaguucguuuaaaacc-guucacguccugugaacaacaccgaacgaccuaca
+AB000617.1/3210 cgaaguggaucaacggcuaaauuc-ucaggcguccugccuaaacgccgucgucauc-aca
+AE017333.1/8006 gaggaaggaucggcggcuaaccg--ccaggcguccugccugaacgccgccguaauc-acc
+CP000002.3/3243 gaggaaggaucggcggcuaaccgc-ccaggcauccugccugaacgccgccgucauc-acc
+EU157946.1/358- aggcucguaauuucgccuaaaggcagcccgcguccugcgggcaacggcgaaauaucgcca
+                        *        **.         .*.** **     *       .       * 
+
+CP000813.1/2738 uccugcaua
+CP000813.1/5319 uccugcaua
+AAOX01000014.1/ uccugcggg
+AAOX01000014.1/ uccugcggg
+AAOX01000004.1/ uccuggggc
+AAOX01000009.1/ uccuguggg
+AAOX01000001.1/ uccugcggg
+AAOX01000017.1/ uccugcggg
+AAOX01000027.1/ ucu-guggg
+AAOX01000026.1/ ugcuggagc
+AAOX01000004.1/ uccuggggg
+X04164.1/339-27 ucgugcagg
+AE017333.1/3928 uccugaagg
+CP000002.3/6167 uccugaagg
+BA000028.3/3404 uccugugga
+BA000028.3/6752 uccuguagg
+AB000617.1/3210 uccugugaa
+AE017333.1/8006 uccugugaa
+CP000002.3/3243 uucugugaa
+EU157946.1/358- ucgug-gcg
+                *   * .  

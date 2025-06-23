@@ -1,0 +1,68 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AL766849.1/6556 ugac-gucauucaggagaagaaagu-------------uagacuuucgccgaaggaa---
+CR522870.1/1448 ------agccucuggagag---------------ucucauuaugggcaccgaaggagcaa
+BX950851.1/2645 uuga-agccaacuggagagagguug-----------cgaugcaacccaccgaaggggcaa
+CP000919.1/3812 ggac-ggaacucuggagagaccgu-----------------aaaggcaccgaaggggcaa
+AL939108.1/2555 ugac-cccgcgcgggagaguccucc------ggacaucaccggaggcgccgaaggagcaa
+AL939123.1/2781 ugaa-uccgcgcgggagaguccccg---------gccgcgccggggcgccgaaggagcaa
+CR543861.1/1990 auga-uuauugcaggagagauauuc---------uugcaaaggauacgccgaaggagcaa
+BX572605.1/1606 cuaagucgcgucgggagagaucgg----------ccgcaaggccggcgccgaaggagcaa
+AL591688.1/1674 -cga-ccucguugggagaaaccgg------------uucgauccggugccgaaggagcaa
+CR378670.1/1579 ------agccucuggagagacccg------------uuaaaucgggcgccgaaggagcaa
+BX897699.1/1435 ------uuuugcgggagagugcaggcugca-aguuuuugggucugccgccgaaggggaaa
+AJ312125.1/453- agac-gauacucuggagaga----------------ccauauaaggcaccgaaggagcaa
+D84432.1/169999 auga-cagcaaggggagagaccugaccgaaaaccucgggauacaggcgccgaaggagcaa
+AL591978.1/2128 guga-auguaagcagagagacug-------------cgaaaagcagcgccgacggggaaa
+BX640445.1/1601 ------aacaucuggagaguggcg--------cgcgguacggcgcccaccgaaggggauc
+CR543861.1/1990 ------auaaucuggagagaaguau---------uucaaaaauacucaccgaaggggaug
+AE008922.1/1299 ---g-uaacacggugggagaagcg------------gcacugccgcugccgaaggcgcaa
+BX897699.1/1435 ------cagaucuggaaagucg--------------ggaggggccgcgccgaagguguaa
+AE008691.1/3131 auga-agauagcgagagauuaucuu------ccauaaauggaagauagccgaaggggaaa
+BX842577.1/3444 ------ugccucuggaaagcgguggcgaccccuggcgguccucacccgccgauggggaaa
+                              *..*                             .**** ** .   
+
+AL766849.1/6556 ------------------------------------------------------------
+CR522870.1/1448 gccagc--------------------------------guguagcugg------------
+BX950851.1/2645 gca-----------------------------------gcucugcugc------------
+CP000919.1/3812 ggcagg-----------------------------------caacugc------------
+AL939108.1/2555 au---------------------------------------ccucccc------------
+AL939123.1/2781 guc--------------------------------------ccucccu------------
+CR543861.1/1990 -----------------------------------------cgacccc------------
+BX572605.1/1606 -----------------------------------------ccgcccc------------
+AL591688.1/1674 -----------------------------------------ccgcccc------------
+CR378670.1/1579 gcuuucc-------------------------------uuuuugcuguuuuaacaugcau
+BX897699.1/1435 auagccc-----------------------------------------------------
+AJ312125.1/453- auuuaauugagaucuuuauauaaauaaaaaagcuc---aucccuuuuu---uagaucaag
+D84432.1/169999 acugcggag---------------------------------------------------
+AL591978.1/2128 gc------------------------------------auauauuaug------------
+BX640445.1/1601 ccuggcgc-------------guuugcagcggc-----gcacgggu--------------
+CR543861.1/1990 guacguag-------------auuuauggaaau-----cuauagcuac------------
+AE008922.1/1299 ------------------------------------------cagccc------------
+BX897699.1/1435 gcgaaa--------------------------------acuuuuuucg------------
+AE008691.1/3131 ------------------------uacaaaggcccgccaagccuuugu------------
+BX842577.1/3444 ggcgauuc-------------accugacggugg-----acagagucgc------------
+                                                                            
+
+AL766849.1/6556 --------uuacacucucaggugucuu----------aagacaggacugauugac
+CR522870.1/1448 --------ugaaccucucagguacaag------------ggacagaguguagcag
+BX950851.1/2645 --------guaaacucucagguaaagc------------ggacagagggaguggc
+CP000919.1/3812 --------ucaaacucucagguaaaa-------------ggacagagcuaggaua
+AL939108.1/2555 --------ggaaucucucaggcucac-------------guaccgcacggacgag
+AL939123.1/2781 --------ugaaucucucaggcaccg-------------uuaccgcgcgggcgag
+CR543861.1/1990 --------ggaaacucucaggcagaa-------------ggacuguaauaaucga
+BX572605.1/1606 --------ggaaacucucaggcaaac-------------ggaccgcgcgg----c
+AL591688.1/1674 --------ggaaacucucaggccaaa-------------ggaccagcaaggu--g
+CR378670.1/1579 gg--aaagugaaacucucaggcaaaa-------------ggacagaggagauaag
+BX897699.1/1435 --------guaaucucucaggcucuaa------------ggaccguaaaagaaga
+AJ312125.1/453- cgauuaaaugaaucucucagguaaaa-------------ggacagagaacugaau
+D84432.1/169999 --------ugaaucucucaggcaaaa-------------gaacucuugcucgacg
+AL591978.1/2128 --------ugaaacucucaggcaaaa-------------ggauguuuacgggacg
+BX640445.1/1601 ---------gaagcucucagguaaau-------------ggacagaugggguugc
+CR543861.1/1990 --------cgaagcucucagguaccc-------------ugacagauggggcaac
+AE008922.1/1299 --------guaaucgcucaggcccga-------------uaccaucuucaaca--
+BX897699.1/1435 --------cgagucucucagguuugu--------------aacagaggggugcag
+AE008691.1/3131 --------agaagcucucaggcggca-------------ggaucgcuaucggaua
+BX842577.1/3444 --------cgaaucucucaggcgccuggcgugcaggugaagacagagggagaggg
+                          *  * ******                                  

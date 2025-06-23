@@ -1,0 +1,46 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+X12367.1/703-76 ---guuuuuccaugacgguguuuccucuaaauuuaca-ugg-------agaaacaccuga
+X13684.1/700-76 ---uuuugcccaugaagguguucccucuaaaccuacg-ugg-------aggaaugccuga
+U43286.1/2054-2 ---cucuguuaaugacgucucucccucuaaaccccau-uaa-ggacugggagaggcagag
+X57999.1/1526-1 a-uauuuguuuaugauggucacaguguaaaguucaca-cag--------cugugacuuga
+Y11110.1/1218-1 ---uauuugucaugacagucacagcauaaagcgcaga-cgg--------cugugaccuga
+Y11109.1/1272-1 ---guuucucagugaaggcuacagauuaaaccucugg-ccu--------cuggagccaga
+AF093774.1/5851 ---gugugcggaugauaacuacugacgaaagagucau-cga-ccucaguuagugguugga
+AF096875.1/5504 ---gugugcgaaugauaacuacugacgaaagagcugu-cug--cucagucugugguugga
+AF125575.1/5781 ---guguguuuaugaagagcacuaacaaaagaguaau-uga--cucaguugguguucaga
+AF274027.1/835- --ccggcacucaugaaggucugcuugaaaaccagccugcug----guggggcaguccuga
+AB017534.1/661- c-ccggugccuaugacggucugucugaaaaccagccc-cug----guggggcagaccuga
+L12743.1/694-75 --cuggcacccaugacagucugccuaaaaaccagccc-cug----guggggcagacucga
+AB022283.1/1669 ---gccagaugaugaggaccugugcggaaaccccccg-cgg----gcugcccaugucuga
+AF148217.1/2209 gaggcagcuuugugacgaccuuuggcuaaacuccaucguga----gcgccucuggucuga
+M63574.1/1465-1 --guuacauugaugagaacagaaacauaaacuaugac-cua----gggguuucuguugga
+D88033.3/5711-5 --cuugcguuaaugagaacagaaacguaaacuauaac-cua----gggguuucuguugga
+AB032826.1/1401 a-cuugcguuaaugagaacagaaacguaaacuauaac-cua----gggguuucuguugga
+AL833145.1/1479 --uuugcuuuaaugagaauagaaacguaaacuaugac-cua----gggguuucuguugga
+U25264.1/366-43 ---gccgcuucaugacaggaaggacugaaaugucuca-aagaccuguggucuuucuucga
+U67853.1/375-44 ---gacgcuucaugacaggaaggacugaaaugucucu-uggacgccugguccuuccuuga
+                           .*** .           **                            ..
+
+X12367.1/703-76 uuuccagaaaaau-
+X13684.1/700-76 uguccaggaaaa--
+U43286.1/2054-2 caagccucagag--
+X57999.1/1526-1 uuuuuaaaaau---
+Y11110.1/1218-1 uuuuagaaaaua--
+Y11109.1/1272-1 ugcauugaaac---
+AF093774.1/5851 uguagucacau---
+AF096875.1/5504 uguagucacac---
+AF125575.1/5781 ugcucucac-----
+AF274027.1/835- ggaccuggcgug--
+AB017534.1/661- gaaccuggcgug--
+L12743.1/694-75 gaaccuggcgug--
+AB022283.1/1669 gccccuggc-----
+AF148217.1/2209 ugcgccuc------
+M63574.1/1465-1 uagcucguaau---
+D88033.3/5711-5 ugguuggcaac---
+AB032826.1/1401 ugguuggcaa----
+AL833145.1/1479 uaauuagcaguuua
+U25264.1/366-43 uguucugcggc---
+U67853.1/375-44 uguucucacggc--
+                              

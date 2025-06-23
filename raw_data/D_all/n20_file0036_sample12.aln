@@ -1,0 +1,68 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+CR543861.1/1073 cauaaggugaucuaggguuccgaugcuguuua------cuaacaggauggcugguccgag
+CP000304.1/2184 gaaauagccgacuaggguuccgacucgcuc-----------gcgag-uggcugguccgag
+AACY022488354.1 gcaauggccgacuaggguuccggcucgcuuga------aaagcgag-uggcugguccgag
+AACY023003357.1 gaaauggacggcuaggguuccggccugcuuca---------agcag-gugcugguccgag
+AAFY01000234.1/ acuaaagguagcuaggguuccgacuuauuu-----------auaag-ugucugguccgag
+AAFY01010653.1/ caaauagagcgcuaggguuccggcugagcug----------uucag-ugacugguccaag
+CP000542.1/4178 cagaagggucgcuaggguuccggucgcacaca------ucgaugcg-gcgcugguccgag
+CP000271.1/1848 cuucaggaucgcuaggguuccggucggacgcuu--ucaugcgcacgaugccugguccgag
+CP000616.1/1272 ucuuagggucgcuaggguuccggu--------------ucaucgaa-cgucugguccgag
+CP000960.1/4726 ucuuaggguugcuaggguuccggu--------------ucaucgaa-cgucugguccgag
+CP000460.1/6120 ucuuaggggugcuaggguuccgguuca-----------ucaucgaa-cgucugguccaag
+AP008934.1/2424 aauaaagcuuucuaggguuccgcaagg---------ugauuacuuu-ggucugguccgag
+ABDW01000004.1/ uauaaaguuuucuaggguuccguaac-----------uuuuuaguu-agucugguccaag
+AM180355.1/2762 aauuuaguuuucuaggguuccgcau-------------uuuauaau-ggucagguccaag
+CP000721.1/3993 auuuaaguuuucuaggguuccgcag-------------uuuguaac-uggcagguccgag
+ABDT01000102.2/ agauaaguuuucuaggguuccgcag------------uuuauagcu-ggucagguccaag
+AP008230.1/4836 aaaaauguuuucuaggguuccgcaaca----------cgcuuuguu-ggucugguccgag
+CP000511.1/8515 guggggcgcgccuaggguuccgccggcaggc----------agccg-ggucugguccgag
+CP000774.1/2046 guuggcagcggcuaggguuccggcuucgcguguaguuguuugcgaa-gugcugguccgag
+AAMT01000009.1/ gugcaggacgcuuaggguuccgccgcgccaaa---------gcgcg-ggucugguccgag
+                            **********                            * *****.**
+
+CR543861.1/1073 agauuacgguucgu-------------------------------aagaacuacacggag
+CP000304.1/2184 aguuggcgaccucc-----------------------------agugagguuacacggcg
+AACY022488354.1 aguuggcgaccucc----------------------------aguugagguuacacggcg
+AACY023003357.1 agcugucgaccuc------------------------------ggugagguuacacggcg
+AAFY01000234.1/ agcaaccgacucuu----------------------------aaauagaguuacacggag
+AAFY01010653.1/ agcacucgaccunu--------------------------cagacaaagguuacacggcg
+CP000542.1/4178 agcaaccggccucaggcg--cgc------------acgaccgcgcccaggcuccacggcg
+CP000271.1/1848 agcaauccggucuugccguucaccuucuuuc----aaggcgccggcgaggcuccacggag
+CP000616.1/1272 agcagcccggcgcgcggg--cguccgaucacgaaaacggacgcccgcgcgcuacacggcg
+CP000960.1/4726 agcagcccggcacggguu--cacccgaucgcgagaccggaugcgcacgugcuacacggcg
+CP000460.1/6120 agcagcccggcgcgaguu--cguccggucgcaagaccggaugcacgcgugcuacacggcg
+AP008934.1/2424 agaaagccacauau-----------------------------uuuuaugugacacggaa
+ABDW01000004.1/ agaaaacgcacaga----------------------------aagacugugaacacggaa
+AM180355.1/2762 agaaaacgcacaau------------------------------uguuguguacacggaa
+CP000721.1/3993 agaaaacgcauagu---------------------------uuauacuauguucacggaa
+ABDT01000102.2/ agaaaacgcacagu-----------------------------aaaauguguucacggaa
+AP008230.1/4836 agaaaacucacagc-----------------------------cuggcugugucacggag
+CP000511.1/8515 aggcgcaggcggccggc------------------accggagcccggccguuccacggcg
+CP000774.1/2046 agccgcacccuguccg-------------------gugaacagcgggcagguacacggcg
+AAMT01000009.1/ aagcgucacccauccg-------------------gcaaauuccggcagggcacacggcg
+                *.                                                   ***** .
+
+CR543861.1/1073 ggauaaaagcccaggaggu
+CP000304.1/2184 ggauaaaagcccgggagaa
+AACY022488354.1 ggauaaaagcccgggagac
+AACY023003357.1 ggauaaaagcccgggagag
+AAFY01000234.1/ ggauaaaagcccgggaggu
+AAFY01010653.1/ ggacaaaagcccgggagac
+CP000542.1/4178 ggacaaaagcccgggagau
+CP000271.1/1848 ggauaaaagcccgggaggu
+CP000616.1/1272 ggacaaaagcccgggagau
+CP000960.1/4726 ggacaaaagcccgggagau
+CP000460.1/6120 ggacaaaagcccgggagau
+AP008934.1/2424 ggauaaaagccugggagau
+ABDW01000004.1/ ggauaaaagccugggagau
+AM180355.1/2762 ggauaaaagccugggagau
+CP000721.1/3993 ggauaaaagccugggagau
+ABDT01000102.2/ ggauaaaagccugggagau
+AP008230.1/4836 ggauaaaagccugggagag
+CP000511.1/8515 ggacaaaagcccgggagac
+CP000774.1/2046 ggacaaaagcccgggagac
+AAMT01000009.1/ ggccaaaaucccgggagac
+                **  **** ** .****. 

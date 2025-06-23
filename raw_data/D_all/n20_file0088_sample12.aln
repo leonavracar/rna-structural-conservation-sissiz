@@ -1,0 +1,46 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+BABE01001822.1/ ---uaaccacugua-caaagcagugcugaacgcacagaagucagcagaggucauaguagc
+ABDH01009837.1/ --caacccauacag-cgauguauggcugaacguccagaagucagcagaggccguaguacc
+CP001638.1/5375 --caaccguuggag-cgauccaacgcugaacggacagaagucagcagaggucauaguacu
+AP006840.1/2935 --uaaccugcgucg-ggagacgcagcugaaccggcagaagucagcaaaggccauaguacc
+AARF01000332.1/ --uaaauuugcuug-ugaaagcagacugagcguacagaagucagcagacgccauaguacg
+ACIH01000268.1/ --uaacccuguucg-ugagagcaggcugagcgugcagaagucagccgaugucauaguaca
+CP001034.1/2021 -----gaaccacgg-uugaaauaagauuugucaugagaagucagcagacuccauaguacu
+CP003056.1/3201 -------aaccugg-uugaaacaagauuugccgugagaagucagcagaagccauaguacg
+CP001389.1/3003 cuaccggcgucgaa-aggcgucgggauggggcggcaggagucagcagaggccguaguagc
+CP000471.1/3862 cuacugauaucgua-agguauugggaugggguggcagaagucagcagaagccauagucgu
+CP000698.1/1454 cuaccgacaucgag-aggugucgggaugggaugccagaagucagcagacgccauauuagu
+AATO01000047.1/ -uaccgaccccgag-aggugucgggaugcgccugcagaagucagcagaaggcauaguagg
+CP001157.1/2030 -------cgucgag-aggcgacgggaugaacgggcagaagucagccgaagccguaguaag
+ABSN01031768.1/ cuaccguuaucgcg-agauaaggggaagagcgggcagaagucagccgagggcauaguagc
+AAQF01000163.1/ --cguccugcauggcaacaugcaggaugaucaggcaggagucagccgaggccauaguagu
+AATO01000140.1/ --cgcgacggcgagcaaucgccagcgugacugaucaggagucagcagaggccauaguagc
+ABEF01029002.1/ cgcccaaccgagug-cccgaggugugcgggaaggcggcagucagccgaggccauaguagc
+CR377818.1/7458 --cgcugauuggaguaauucauucagugauuaagcagaagucagcagacggcauaguagc
+CP000891.1/2709 -cguaggcuagaggugaguuggcaugugauuaagcagaagucagcagacggcauguagcc
+AATN01000130.1/ cugggcguugggua-acuggcgcugaacaccguggagaagucagcaaagggcauaguagg
+                             .                     .* ******* .*   *.*.     
+
+BABE01001822.1/ cgaaaggu-----------------------------------gaaggac
+ABDH01009837.1/ augaaggggaaugucccaugucgagggagaacaaacggagcgggaagggc
+CP001638.1/5375 cgucuagcuua---------------------agauagaaggggaaggac
+AP006840.1/2935 ggcagggggac---------------------gccccgaccgggaagggc
+AARF01000332.1/ caagaaguugc---------------------aacgccuugcggaagggc
+ACIH01000268.1/ cagcuugucgc----------------------gagggcuguggaaggac
+CP001034.1/2021 ugaugaggucg---------------------acaucauuaaggaaggga
+CP003056.1/3201 gagaugccugg----------------------ggcaucgaaggaagggc
+CP001389.1/3003 cgg------------------------------accaagcggugaagggc
+CP000471.1/3862 uaccgua--------------------------acuggguaacgaagggc
+CP000698.1/1454 cggccuu--------------------------accaguugaugaagggc
+AATO01000047.1/ uuggggacgaagcggagagcccgagaa-----gaacucugaccgaaggcc
+CP001157.1/2030 ugacgacca------------------------accacgucaccaagggc
+ABSN01031768.1/ uuguaugca---------------------------guagagcgaaggcc
+AAQF01000163.1/ uccgg----------------------------gcaacggaacgaagggc
+AATO01000140.1/ gacaccg-------------------------aaagguaacgcgaagggc
+ABEF01029002.1/ ugcuugc--------------------------gcacagcggcgaagggc
+CR377818.1/7458 caaaugcccaucguaauggu------------ugggacacggugaaggcc
+CP000891.1/2709 caacgcccauc-guaaugga------------ugggacacggugaaagcc
+AATN01000130.1/ cgacgc------------------------------caccgccgaaggcc
+                                                            **.*  

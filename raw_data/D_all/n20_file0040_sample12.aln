@@ -1,0 +1,46 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AF309953.1/271- u-gggggcccaaggugugu---ugaagcugu-agccacacuggaa-ggacuagagguuag
+AF309955.1/269- u-uggggcccaaggugugu---ugaagcugu-agccacacuggaa-ggaccagagguuag
+AF100151.1/258- u-gggggcccaaggugaga---ugaagcugu-agucucacuggaa-ggacuagagguuag
+AF100145.1/268- c-gggggcccaaggugaga---ugaagcugu-agucucacuggaa-ggacuagagguuag
+AF100458.1/258- u-gggggcccaaggugaga---ugaagcugu-agucucacuggaa-ggacuagagguuag
+AY145121.1/1055 --cggggcccaagccagga---ggaagcugu-acuccugguggaa-ggacuagagguuag
+AY152199.1/334- agggggcccgaagccagga---ggaagcugu-acuccugguggaa-ggacuagagguuau
+AF311958.1/1055 --cggggcccaacaccaug---ggaagcugu-accuuggugguaa-ggacuagagguuag
+AB074761.1/1055 --cggggcccaacaccagg---gaaagcugu-acccuggugguaa-ggacuagagguuag
+AF098735.1/1078 a-ugcggcccaagccuccu---cgaagcugu-agaggagguggaa-ggacuagagguuag
+AY316157.1/1077 a-ugcggcccaagcccccu---cgaagcugu-agaggagguggaa-ggacuagagguuag
+AF075723.1/1070 c-cacggcccaagccucgucuaggaugcaau-agacgagguguaa-ggacuagagguuag
+AY688948.1/1079 a-cgcggccacaacccugg---cuaugguguuaaccagggagaag-ggacuagagguuag
+M12294.2/10694- a-cgcggccauaacccugg---cuaugguguuaaccagggagaag-ggacuagagguuag
+AY490240.2/1083 ---cacggcccagccugac---ugaagcugu-aggucagg-ggaa-ggacuagagguuag
+AF309953.1/185- ---ggaggccacaaaccau---ggaaggugu-acgcgugguguaguggacuagcgguuag
+AF309954.1/185- ---ggaggccacaaaccau---ggaagcuguaacgcaugguguaguggacuagcgguuag
+AF310147.1/198- ---ggaggcugcaacccau---ggaagcugu-acgcaugggguagcagacuagugguuag
+AF310149.1/179- ---ggaggcugcaaaccgu---ggaagcugu-acgcacgguguagcagacuagcgguuag
+AY152355.1/245- ---ggaggccaugcgccac---ggaagcugu-acgcgugguauauuggacuagcgguuag
+                        *               * *  .* *     .  . *  .*** ** ***** 
+
+AF309953.1/271- aggagacccccccagacaa
+AF309955.1/269- aggagacccccccagacaa
+AF100151.1/258- aggagacccccccaagaca
+AF100145.1/268- aggagacccccccaaaaua
+AF100458.1/258- aggagacccccccaaaaac
+AY145121.1/1055 aggagaccccccgcacaac
+AY152199.1/334- aggagacccccccaacaca
+AF311958.1/1055 aggagaccccccgcucaac
+AB074761.1/1055 aggagaccccccgcauaau
+AF098735.1/1078 aggagaccccgcauuugca
+AY316157.1/1077 aggagaccccgcaauu---
+AF075723.1/1070 aggagaccccguggaaaua
+AY688948.1/1079 aggagaccccgcguuaaaa
+M12294.2/10694- aggagaccccgcguaaaaa
+AY490240.2/1083 uggagaccccgugccacag
+AF309953.1/185- aggagaccccucccuuaag
+AF309954.1/185- aggagaccccucccuuaag
+AF310147.1/198- aggagaccccucccaaaac
+AF310149.1/179- aggagaccccucccaugac
+AY152355.1/245- aggagaccccucccaucac
+                 *********         

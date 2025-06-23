@@ -1,0 +1,90 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+U62615.1/1314-1 aucuggcugcgacguuggugacugccaa----caauguuuuuugaucuauacc-------
+CP001037.1/5114 guugcacuacgacguuggugacugccau-----caaguuuuuugaucuaugcc-------
+AANO01000007.1/ cucggacugcuguguuggugacugccuu---ucacaguuucugaucugacuccc------
+BX571857.1/1685 agucaucugaguuguucguaaguuugcu----uuuuaauuugggccuaacacu-------
+CP000923.1/1508 aaagcccugugguguacgugagguccgg-----ugaaaguuugagccaacacca---aua
+CP000419.1/1793 aaauugcugugguauacgaauccacaua---uaaguguugaccgacuaauuuuu--guau
+BA000040.2/1665 gcgaggcugcgacgcgcguccggagccaua------------------------------
+CP000115.1/2966 gcgaggcugcgccgcgcgucagaagccaca------------------------------
+CP000283.1/4650 gcgaggcugcguuucgcgucaggagccaua------------------------------
+AE008917.1/3247 ggcgaacugcgcuucccgacagguguaa--------------------------------
+CP000698.1/4969 uucucucugcccuguucgugagguuagu----acgccccugcggaauaa-----------
+CP001124.1/2902 cucucucugcccuguccgugagguuacu---aacgccccugcggaauaa-----------
+BX640420.1/1162 uugucccugccgugcucgugacuuggcc---auacauucucugaaccuauguc-------
+BX950851.1/5266 auuucucugagauguuugucagcgggcc------aguccccugagccgauauuuuauacc
+CP000821.1/4485 ugcucccugguauacgcgucagucggca------augucccugugccgauauuu---aca
+AE016827.1/4412 gauuuccugagguguucgucagcggguu------acgucccugagccgauacuu--acau
+CP000057.2/9714 aauuaccuggaguguucgucaguaggcu------augucccugagccgauacuu--uaaa
+AACV01012376.1/ cguucucugcgguacucgacggcaugug------caaacauucgccuugucccu----ua
+AE008923.1/4015 cguucucugcgguaaacgacagcgugca-------aaacauucgccuugucccu----ua
+CP002222.1/2091 aaauuacuaaggugugcgcauugcucuaaacaaaguguugccgaacaauuaaua--cuac
+                      **.        *                                          
+
+U62615.1/1314-1 uuucgaaguugggcgcucucgcagagccgacggcaguagaccgagcuugac---------
+CP001037.1/5114 -uuuaaugacaagggagucaacuguucucguggcaguauaccgggcauguaccc------
+AANO01000007.1/ ucuucgacguggguggucugucgcgacggu--gacguacaccggccucguu---------
+BX571857.1/1685 -cuuugaucaagggagcccaauggguuuucuugcagcguacacgccuuaua---------
+CP000923.1/1508 auaagggagccugggcuuuggcagugg-----aauguaggccgucuuugaa---------
+CP000419.1/1793 uaucgggagacagaggucuauuaacagu----gugcaggcuggcucaccca---------
+BA000040.2/1665 ----uauccccggggccuuaucgauccu----uuagggaacugucccuggc---------
+CP000115.1/2966 -----auccccggggccuuaucgauccu----uaagggaacugucccuggu---------
+CP000283.1/4650 -----auccccggggccuuaucgauccu----uaagggaacugucccuggc---------
+AE008917.1/3247 -cagcauccccggggccuuauugaucuc----uaagggagcugucccugug---------
+CP000698.1/4969 --ucgaagaacgggagccuuuuuaaacu----guggugugcugccccuu-----------
+CP001124.1/2902 -uuuauugaacgggugacuguuucgacc----guggugagcugccccauugc--------
+BX640420.1/1162 -uuacggcauauggguugcgggagugua----gaguuggagugaucgucuacuc------
+BX950851.1/5266 aaacagaauguaaugcucugcgguuggu----gcgcaagcucgguucgucc---------
+CP000821.1/4485 aacccagggugaaugcuuuauugacauu----gugcaagcucggcucguau---------
+AE016827.1/4412 acucuagaauugguucucuauaguuggu----gagcaugcuugcccugaccuucgagguc
+CP000057.2/9714 ucuuauaaauugguuuccuaucguuggu----guguaggcuuaaccuuugacucg-uuca
+AACV01012376.1/ agaacgacaccgggagcgcgacagcgccgggagugcagguccgccuuguag---------
+AE008923.1/4015 auuacgaccacgggggcgcgacgaagccgggugugcaaguccgccuuguag---------
+CP002222.1/2091 uuugggauguccguuagcuaauucca------uaacaugccuuauccuuug---------
+                            .                                               
+
+U62615.1/1314-1 -------ucggaaacuuaauguuggccgcaagcuccccccugguu----------cuccc
+CP001037.1/5114 -------ggaaacuuuaaacgaggaauuuagguucccaccuggau---------aaaccc
+AANO01000007.1/ -------gccggaaacgaagccccgcuuugacugcuccucuggua----------cuacc
+BX571857.1/1685 ----ugaaggacguacaaaacaagaaacagggcacccaccuguau---------auaaca
+CP000923.1/1508 -------cggaaacaugaagcugccaagagggcacccacguugug---------aggacg
+CP000419.1/1793 -------gaagcaacugaaguuaguagcgagucgcccaccugcuuuuuuac---gucgcg
+BA000040.2/1665 -------cgggcccgugggcccggacauauggugcccaccuacuuucguagggaacuccg
+CP000115.1/2966 -------cggguccguggauccggccauauggugcccaccuacuuucguagggaacuccg
+CP000283.1/4650 -------cggguccguggacccggucacauggugcccaccuacuuucguagggaacuccg
+AE008917.1/3247 -------aaggcuugcgggcuuucgcauauggcgcccaccuacuu---uguagguucccg
+CP000698.1/4969 ----gcgggauuugccugaagcaguguaaaggagcccaccuauuag--------ggaacu
+CP001124.1/2902 ----gcgggaauugccuaaagcgguccacaggagcccaccugaaug--------ggaacu
+BX640420.1/1162 ----guagacgaacccgaugcucuucggaucgcgaccaccuugaa---------ccucag
+BX950851.1/5266 -------gagaagccuuaagacugcgacguuauguucaccuugaa----------ccaag
+CP000821.1/4485 -------cgagaagccuuaggauauaaucauuuacccgccuugaa----------ccuac
+AE016827.1/4412 cugaugcaagaagccuaaaaacaguuacgaccgauucccuugaac----------cgucg
+CP000057.2/9714 uugggcuaagaaaccugaaaacgguaucaacugauuuccuugaac----------cgucg
+AACV01012376.1/ -------cgggaagcccgaugguucuccagcguucccacuugagc----------ccccg
+AE008923.1/4015 -------cgggaagcccgauggccucacaacguccccacuugaa-----------ccccg
+CP002222.1/2091 -------guaguuagcgaauuagucagaacgu--cccaccugccu---------uaaagc
+                                                        *                   
+
+U62615.1/1314-1 aggucgaaaucugagg---uaaaacggcg-ucgcgguuagauc-
+CP001037.1/5114 aggucauaaacuuagg---uaaaacggcg-ucgcggugaacuu-
+AANO01000007.1/ aggucgaacacugggg---caagacggca-cagcgguucaccc-
+BX571857.1/1685 ggccgaaugaucaagcuauuauaacuacggcaauacggacucua
+CP000923.1/1508 gguucaagaacuaccggg-aagcacggca-cuaugggguuuuu-
+CP000419.1/1793 gguucaauacaaacuguggaucaucgguaccaauacagcaucca
+BA000040.2/1665 ggaucgagugc--------uucaacggcguccgcggcuucgca-
+CP000115.1/2966 ggaucgagcgc--------uucaacggcggucgcggcuucgcg-
+CP000283.1/4650 ggaucgagcgc--------uucaacggucaucguggcuucgca-
+AE008917.1/3247 ggaucaaucacu-------accaucggccgucguggucgccg--
+CP000698.1/4969 cgcugugaggccccga---accaacggca-ugguggagagaau-
+CP001124.1/2902 cgcugugaggcccccgaa-accaacggca-cggcggagagagu-
+BX640420.1/1162 gguucgagaugccggc---cuugacggca-caggcggggcauc-
+BX950851.1/5266 gguucaaggguuacagcc-ugcggcggca-ucucggagauccc-
+CP000821.1/4485 gguucaagggcuuacgcc-ggcaacggua-uuuuggggagcaa-
+AE016827.1/4412 gguucaaggaccgaccacccacaacggca-ucucggggucuuc-
+CP000057.2/9714 gguucaaggacuacugcc-cgcagcggca-cucuggguccuau-
+AACV01012376.1/ gguucaaggucguuucgcaugcaucgaca-uugcggagaaugc-
+AE008923.1/4015 gguucaaggucguuucgcccgcaucguca-cggcggagaaugc-
+CP002222.1/2091 gggucaauacugaagggcgauuaacggcaccacuaguuuuucc-
+                 *                      *                   

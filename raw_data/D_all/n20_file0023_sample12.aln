@@ -1,0 +1,46 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+M17910.1/2-64   nngug-uuacagcucuuuuagaauuugucuaguaggcuuucuggcuuuuc---accggaa
+AAQQ01624215.1/ aagug-uugcagcucuuuuagaauuugucuagcaggcuuucuggcaguu----gccggaa
+AAIY01793969.1/ uagug-uuacagcucuuuuagaauuugucuagcacguuuucugguuucu----accagaa
+AANG01081017.1/ uagug-uuacagcucuuuuagaauuugucuagcagguuuuccgguuuuu----accggaa
+AANN01093499.1/ cagug-uuacagcucuuuuagaauuugucuagcaggucuuccgguuccu----accggaa
+AAQR03168143.1/ gagug-uuacagcucuuuuagaauuugucuagcagguuuuccggucucu----accggaa
+ABDC01308671.1/ aagug-uuacagcucuuuuagaauuugucuagcaggucuuccgguccuu----accggaa
+AADA01187858.1/ cagug-uuacagcucuuuuagaauuugucuagcaggcuuuccaguuuuu----gcuggaa
+AAKN02052151.1/ aagug-uuacagcucuuuuagaauuugucuaguagguuuucugguguuu----gccggaa
+AAGL01003173.1/ uagug-uuacagcuuuuuuagaauuugucuagcaggcuuucugguuuuc----accauaa
+AAGU03036159.1/ uagug-uuacagcucuuuuagaauuugucuaguaggucuucuaguuuuu----cuggaag
+AAPE02007016.1/ cagugcuuacagcucuuuuugaauuuguccagcaggucuuccggcucgu----cccggaa
+AAPN01194339.1/ gccau-uucaagcucuuguagaauuugucuaguagguuuuccaguauug----gcuggaa
+AAWZ02028238.1/ cagugauuucagcucuuuuaguauuuguccagcaggcuuucugcaguua----gcggaga
+Z54313.1/9464-9 aagug-uuacagcucuuuuacuauuugucuagcagguucuuacucugua---------gg
+BX001019.7/1268 ---ugaaaauagcucuuuuaguauuuguccaguagguuuccuauaaaaa--------gga
+CAAB02008541.1/ gaaug---auugcucuuuagauauuucucuaguaggcuuuucau---------acagaga
+AAIZ01011560.1/ aaau--uuuuaaucucuuugaaauuuaucuuggugggacccuuuugucaaggcaauugag
+AAEU02000134.1/ aaaa--uuuuauucucuuugaaauuugucuuguugggacccuuugucuagg--cauugag
+AAGJ04113203.1/ gagag------uuaucuuucaaguuucucuagcagggucucgcauccgaagucggacgcg
+                                *     .*** **  *   *                       .
+
+M17910.1/2-64   agccccu--
+AAQQ01624215.1/ agccccu--
+AAIY01793969.1/ agccccc--
+AANG01081017.1/ ggccccc--
+AANN01093499.1/ ggccccc--
+AAQR03168143.1/ aaccccc--
+ABDC01308671.1/ ggcccaa--
+AADA01187858.1/ agcccaa--
+AAKN02052151.1/ aacccau--
+AAGL01003173.1/ aaugcccca
+AAGU03036159.1/ acccuu---
+AAPE02007016.1/ ggcccuc--
+AAPN01194339.1/ agcccuu--
+AAWZ02028238.1/ gccacc---
+Z54313.1/9464-9 agccaca--
+BX001019.7/1268 agcccau--
+CAAB02008541.1/ agccccc--
+AAIZ01011560.1/ uguucccga
+AAEU02000134.1/ uguucccgu
+AAGJ04113203.1/ agugcccaa
+                         

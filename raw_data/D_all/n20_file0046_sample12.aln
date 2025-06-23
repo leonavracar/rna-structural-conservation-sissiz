@@ -1,0 +1,68 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AARH01013737.1/ uaa-uuuauuugagucagau-uucau----uugucuaugauagacccauauaugacugcu
+AARH01003636.1/ uaa-ucuauuuggggcauauucucau----uuaguuaugauagauccacacuugauugcu
+AARH01008739.1/ caa-ucuauuuagggcagauucuuau----uuaguuauggcagacucaaaccugaaugcu
+AARH01008919.1/ uaa-ucuguuugagacauauucucau----guaauuaugacaaacucauacuuaacugcu
+AARH01006056.1/ uaa-ucuauuuggggcagauccucau----uuaguuaugacagacuuacaccugauuucu
+AARH01002154.1/ caa-uuuguuuagugcagauccucau----uuaauuaugacaaacccacaccugacuacu
+AARH01002753.1/ uaa-uucguuuuggccagauccucau----uuaguuauggucgauucacacauaacuacu
+AARH01003818.1/ caa-uuuguuugugacaaauucucau----uuaauugugacaaacucauaccuaauugcu
+AARH01008349.1/ uaa-uuuauuugaggcaaauccucau----uuaauuauaacagacccacaccugacuguu
+AARH01001894.1/ aua-uuuauuaggggcaaauucuuau----uuaguuauggcagauccacaccugacugcu
+AARH01006766.1/ uaa-uuuauuuguggcaaauauuugu----uuaguuauggcagauucacaucugacuacu
+AARH01006065.1/ uaa-ucuuuuuggaguagauccuuau----uuaguuaugguaaacucgcaccuaacuacu
+AARH01006070.1/ uaa-uuuauuuggggccgauccucgu----cuagcuaugacagacccacacuuaacugcu
+AARH01003020.1/ uaa-ucuguuuagggcaaau-cucau----cuaguugugguagauucauaccuaacugcu
+AARH01021567.1/ uac-uaugcuu-gggccaaaacucau----ucaguuauaguagacucacaucugacugcu
+AARH01009821.1/ uaa-uuaguuugaggcagaucauuau----uuaauuguagcaaacucacaccugauuacu
+AARH01009696.1/ uaa-uc-------aauaaauuuuuau----uuaguuaugacaaauucauaccugacugcu
+AARH01003658.1/ uaa-uuuuuuuggggcauguuauuau----cuaauuauagcagauucacaucuaacugcu
+AARH01008741.1/ uaauuuguuuuguagcagauucucaucuaguuaguuauaauauacucauacuucauuauu
+AARH01004344.1/ caa-auaauuugugguguguucuuau----uuaguuauggcacagccacaccuaacuau-
+                                  .   * .*      .  *.*..   *   . *  * * *   
+
+AARH01013737.1/ cagaaucgucuguuauuguaagucugacuauaucauuaauauu-aaaaa----acaaaaa
+AARH01003636.1/ uaaaaucaccuguuauuacauguucgacuauauuauuaacauu-gaaaa----guugagg
+AARH01008739.1/ cagaaucacuuguuauuacaagcucgaauauaucauugacauu-gaaaa----acagugg
+AARH01008919.1/ cagaaucauuuguuaucauauacccgacaauaucauuaacauu-aaaaa----auagaga
+AARH01006056.1/ uagaaucacucguuaucacaagcccgauuauaucauugacauu-gaaaa----acagaaa
+AARH01002154.1/ uagaaucauccguuaucauaagcucgacuauaucauugacaua-gaaaa----acaaaag
+AARH01002753.1/ caaaaucacccguuaucacaagucugacuauaucauugacauu-gaaaa----acagaga
+AARH01003818.1/ cagaauuacucauuaucgcaagucugacuacaucguugacauu-ggaaa----acaaaag
+AARH01008349.1/ cagaaucaccuauuaucacaaauccgacuacuucuuuggcauu-uaaaa----acaaaga
+AARH01001894.1/ caaaaucaaucguuaucacaagaucgacuacaucauucacauu-aaaaa----acaaaga
+AARH01006766.1/ caaaaucauccguuaucacaaguuggacuauaucauuuacauu-gaaaa----acauaaa
+AARH01006065.1/ cagaaucaccccuuaucgcaagcuugacuauauuauugauauuaaaaaa----auaaagg
+AARH01006070.1/ cagaaucaucuguuauugcaaaucugacuacauuauuaacauugaaaaa----auagaag
+AARH01003020.1/ gagaaucacccguuaucacaagcccgacuauauuauugauacu-gaaaa----acagagg
+AARH01021567.1/ uagaaucacauauuaucgcaaauccaacuacaucauugacauu-gaaaa----acauagg
+AARH01009821.1/ caaaaucaccuauuauugcaaguccgacuacaucauugacauu-gaaaa----acaagug
+AARH01009696.1/ cagaaucacccguuaucacaagcccgacuacaucauugauauu-gaaaa----acacaug
+AARH01003658.1/ caaaaucauucauuaucguaagcccgacuauaucauugacacu-caaaauauaauugaaa
+AARH01008741.1/ cagaaucgucaguuauugcaaguccgauuauaucuuugauauu-gaaaaac--agaaaga
+AARH01004344.1/ ---aauuauuuguuaucgcaggu-cgacuauauuauuaacauu-gaaaa----acauaug
+                   *** .    **** . * .   .*  *  *  ** . *    .***    .     .
+
+AARH01013737.1/ acaacuacuauguaaauaauaa-----------------
+AARH01003636.1/ acaacuacuguaugaauaauaauuuuuugaga-------
+AARH01008739.1/ acaacuacugugugaauaauaacuuuuugaaauuuuaa-
+AARH01008919.1/ acaacuauugugugaacaauaac----------------
+AARH01006056.1/ auaauuauugugugaauguuagugagcca----------
+AARH01002154.1/ acaaauauugugugaauaauaaa----------------
+AARH01002753.1/ aaaacuauugugugaauauuggugagcugacua------
+AARH01003818.1/ acaacuaaugugugaacaauaaauu--------------
+AARH01008349.1/ acaauuacuauguggacaauaacuu---gagaucauaaa
+AARH01001894.1/ acaacugcuguuuggauaauauguuuuugagauuuuaau
+AARH01006766.1/ acaacuauugucugaauaauaauuu--------------
+AARH01006065.1/ acaacuauuacguuaacaauaac----------------
+AARH01006070.1/ acaauuacuguaugaacaauaa-----------------
+AARH01003020.1/ acaauuaaucugugaacaauaac----------------
+AARH01021567.1/ acaagcauuuugcauacgauaac----------------
+AARH01009821.1/ uauacuuugagauuuuaauuagag---------------
+AARH01009696.1/ uauauuuugaaauuuuaauuaaaa---------------
+AARH01003658.1/ gaaaagguuuauuaaauuaugau----------------
+AARH01008741.1/ acaauuaucguguaaacaaaaa-----------------
+AARH01004344.1/ acaauuauuguauaaacaauaucuuuuuga---------
+                   *                .                  

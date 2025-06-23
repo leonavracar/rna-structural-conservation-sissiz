@@ -1,0 +1,90 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AACY020518344.1 --ugaggaccgauaagagaccaacugcagacggaa---acuua-agag-aaaucaaagga
+AACY022380787.1 --ugaggaccgauaagagaccaacugcagacggaa---acuua-agag-aaaucaaagga
+AACY021543506.1 --ugaggaccgauaagagaccaacugcagacggaa---acuua-agag-aaaucaaagga
+AACY022580367.1 --cggagaccgauaagagaccaacugcagacggaa---acuua-agag-aaaccgaagga
+AACY020483406.1 --cggagaccgauaagagaccaacugcagacggaa---acuua-agag-aaaccgaagga
+AACY023483054.1 --uggcaaccgacuagugaccaacugcagacggaaga-ccuag-agag-aagccagccag
+AACY022432484.1 --aggcaaccgacuagugaccaacugcagacggaagauccuag-agag-aagccagaaga
+AACY021532574.1 --uggcgacugacuagcuaccaacugcagacgugaag-uuaga-ggga-aaaccagacgg
+AACY020028399.1 --uugauuccgacuaaagaucaacugcagacggga---cguag-agagaaucaaagaggu
+AACY021556557.1 -cuugauuccgacuaacaaucaacugcagacggga---guuag-agag-gucaagaagga
+AACY020489190.1 --ccgaaaccgacuuggaaacaacugcagacggga---ccaag-ggag-aaucggaagga
+AACY023363698.1 --cucggaccgacuuacaaucaacugcagacggga---guaag-agag-aaagagaagga
+AACY021450808.1 --cggggacugacgcgcaaccaacugcagacggga---gcggg-gggg-aaaccggagga
+AACY020389354.1 -------uccgagccgaaaacaacucgagacgaaa---gaaagcagag-agaggaugauu
+AACY020198623.1 --aucagaccgacuuggaaacaacucgagacgaag---aaaag-agag-aaagauagguu
+AACY020561667.1 agauaacaagaucaggaaaggaacugcagaaccaaga-augag-aaag-uuaacuuagga
+AACY023560069.1 -gguaacaagaacuggaaaggaacugcagaaccaaag-aaagg-aaau-guuacacagga
+AACY020214447.1 -gauaaccagaucagaaagggaacugcagaacccaga-augaa-aaag--uuacuuagga
+AACY023149008.1 ucuugagaccgacccgaaaguaacuuaagacgcgg---aaggg-agagucaaaaagagaa
+AACY023161256.1 ucuugagaccgacccgaaaguaacuuaagacgcgg---aaggg-agagucaaaaagagaa
+                          .    .  .  ****  ***    .       . ...             
+
+AACY020518344.1 agagcccuuaag-gcgaaagcguuuuaaagaguauacgau----aaaaaauagcuuuaaa
+AACY022380787.1 agagcccuuaag-gcgaaagcguuuuaaagaguauacgau----aaaaaauagcuuuaaa
+AACY021543506.1 agagcccucaag-gcgaaagcguuuuaaagaguauacgau----aaaaaauagcuuuaaa
+AACY022580367.1 agagcccucaag-gcgaaagcguuuuaaagaguauacgau----aaaaaauagcuuuaaa
+AACY020483406.1 agagcccucaag-gcgaaagcguuuuaaagaguauacgau----aaaaaauagcuuuaaa
+AACY023483054.1 agagaccuaagg-gugaaagcauuugcaagagucgaugag----aaaaaauagcuugcaa
+AACY022432484.1 agagaccgaagg-gcgaaagcauuuacaagagucgaugag----aaaaaauagcuuguaa
+AACY021532574.1 agagaccgaagg-gugaaagcauuugcaagagucgaugau----aaaaaauagcuugcag
+AACY020028399.1 agagcccauagg-gugaaagcguuuguaagagucgacgau----aaaaaagagcuuauaa
+AACY021556557.1 agagcccauagg-gugaaagcguuacuaagagucgacgau----aaaaaagagcuuagca
+AACY020489190.1 agagaccaaagg-gugaaagcguuucuaagagucgaugau----aaaaaauagcuuagag
+AACY023363698.1 agaga-cgaagg-gcgaaagcguuauuaagagucgacgau----aaaaaagagcuuagua
+AACY021450808.1 agagugcucagguaggaaagcguagcgaagagccggca------caaauagcaguucgcu
+AACY020389354.1 agaguacgaagg-gugaaagcucuagaaaaaaaaggua------ccaaaaaaguuuucua
+AACY020198623.1 agagaacgaaag-gugaaagcucu---aaaaaacagcuag----caaaaaaaguuuuuua
+AACY020561667.1 agagaccagaaaggugaaaguuuaaggaaggucagcau------gcaaaagaccaaacuu
+AACY023560069.1 agagaccugaagggugaaaguucaagagagcuuagcau------gcaaaaaagcaaacuu
+AACY020214447.1 agagaacagaaaggugaaaguucuagaaagcuuagcua------gcaauaaagcgaacua
+AACY023149008.1 agagaccuaaagggugaaagcgaaucggggaagauaagcuagcagcaaaaaggaaccgau
+AACY023161256.1 agagaccuaaagggugaaagcgaaucggggaagauaagcuagcagcaaaaaggaaccgau
+                ****  *  *.. . *****       ...                ** *          
+
+AACY020518344.1 acccaccaagga---ugaagagauagcauccaagga-gcuaaag--aaaaucucacuuua
+AACY022380787.1 acccaccaagga---ugaagagauagcauccaagga-gcuaaag--aaaaucucacuuua
+AACY021543506.1 acccaccaagga---ugaagagauagcauccaagga-gcuaaag--aaaaucucacuuua
+AACY022580367.1 acccaccaagga---ugaagagauagcauccaagga-gcuaaag--aaaaucucacuuua
+AACY020483406.1 acccaccaagga---ugaagagauagcauccaagga-gcuaaag--aaaaucucacuuua
+AACY023483054.1 auccaccaaggau--ucaagagaaagaauccgagga-gcuaaag--aaaaucucacuuua
+AACY022432484.1 auccaccaagaau--ucaagagaaagaauucaagga-gcuaaag--aaaaucucacuuua
+AACY021532574.1 auccaccaaggau--ucaggagaaagaauccaagga-gcuaaag--aaaaucucacuuua
+AACY020028399.1 acccaccaagauu--ucaagagaaagaaaucaagga-gcuaagg--auaaucucacuuua
+AACY021556557.1 acccaccaagagu--uuaagagaaaaaacucaagga-gccagag--aaaaucucacuuug
+AACY020489190.1 acccaccaaggaa--auaagagaaaauuuccaaggc-gcuaaag--aaaaucucacuuua
+AACY023363698.1 acccaccaaggag--gaaagagaaagccuccaagga-gcuaaag--agauucucacuuua
+AACY021450808.1 acccaccgaggg---ugaagggauaccacccgaggg-gccagac--ggaaucccggucug
+AACY020389354.1 gaccaccaagaucuaaaaagaagaguagaucaagga-gccugaa--agucuucaagucag
+AACY020198623.1 gaccaccaagguu--gaaagagaaaucaaccaagga-gcuagac--aaaaucucgguuua
+AACY020561667.1 aaccaccgagagu--aaaagagaucuuacucaaggaugcagaag--guaaucucacuuuu
+AACY023560069.1 gaccaccgagagu--aaaagagaucuuacucaaggaugcaagag--guaaucucacuuuu
+AACY020214447.1 gaccaccgaggau--aaaagagaucuuauccaaggaugcagaag--guaaucucacuuuu
+AACY023149008.1 ucccaccaaguuc-ggaaagagauaccgggcgaggc-gcugaagaaagaaucucgcuuca
+AACY023161256.1 ucccaccaaguuc-ggaaagagauaccgggcgaggc-gcugaagaaagaaucucgcuuca
+                  *****.**       *.*...       *.***  **  ..   .   *   . *   
+
+AACY020518344.1 gacacuuaaggaacucgaacuaagaga-
+AACY022380787.1 gacacuuaaggaacucgaacuaagaga-
+AACY021543506.1 gacacuugaggaacucgaauugaaaga-
+AACY022580367.1 gacacuugaggaacucgaacuaagaga-
+AACY020483406.1 gacacuugaggaacucgaacuaagaga-
+AACY023483054.1 gaccccuaaggaacucgguugaagaaa-
+AACY022432484.1 gaccccugaggaaucgaauuaagaaaa-
+AACY021532574.1 gaccccugaggaaucgauugaaagaaa-
+AACY020028399.1 gaccccuaaggaucucgaauuaaaaaga
+AACY021556557.1 gaccccuaaggaucucgaacuuaaagaa
+AACY020489190.1 gaccccugaggaccucggacuaaga---
+AACY023363698.1 gaccccuuccaaucucgaacugaaaaga
+AACY021450808.1 gacgccugagaggcucgaaacagaaaga
+AACY020389354.1 gacacuuucgaacucgaaacuaaa----
+AACY020198623.1 gacacuuucgaacucgaacuaaga----
+AACY020561667.1 gacaccuacugaucucgaauuaaaaaaa
+AACY023560069.1 gacacccacagaucucgauuuaaaagaa
+AACY020214447.1 gacaccuacugaucucgauugaaaaaaa
+AACY023149008.1 gacaccccaaggacucgacuaaagaaa-
+AACY023161256.1 gacaccccaaggacucgacuaaagaaa-
+                *** *     ..    .     ..    

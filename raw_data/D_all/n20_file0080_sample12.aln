@@ -1,0 +1,46 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AAQA01004525.1/ --cgugucuaagcuu-ugaccagggccuu--guccaagacccggcgaacaauuuuuggcu
+AY948626.1/1-77 -guuaaaccauaacu-aacucagggccuu--guuaaagacccgaaguacaauuuuugaag
+AAGD02000138.1/ uuucuaaccagaaag-acagcagggccuu--acuaaagacccguacuacaauuuuugcag
+ABEG02007269.1/ gguuauaaagauuuu-uauaccgggccuu--acagaagaccccaaguacaauuuuugcag
+ABLE03034152.1/ uucuuacaccuagug-ugaaccgggccuu--guugaagacccuaagcacaauuuuugcag
+CAAC02000462.1/ -caguaucuaguauu-ucaucgaggccuu--cuugaagaccuuaaguauaauuuuuggaa
+AAGD02003917.1/ auguauguuauuucu-uccucaaggccuu--ccuuaagaccuguaguacaauuuuuggag
+AAGD02001043.1/ ---uaaauuguaacaacacacaaggccuu--guuuaagaccugcuguaaaauuuuuggag
+AY948625.1/1-79 --guuaauucauuaa-cuuccaaggccuu--acacaagaccuaguggacaauuuuuggag
+AY948621.1/1-78 --auauaauauauca-cugucagggccuu--acaaaagacccagugaacaauuuuugcaa
+ABEG02000330.1/ aauucuaaugaauca-cucucagggccuu--gaauaagacccagugaacaauuuuuggag
+ABEG02002029.1/ cuauugaauaacuca-cuuucagggccuu--gcauaagacccagugaacaauuuuuggag
+ABEG02000330.1/ acaaaugaucuaaau-aucucagggccuu--gcauaagaccuagugaacaauuuuuggag
+ABEG02000320.1/ caacuaacaacacac-cucucagggccuu--gaucaagacccggugaacaauuuuuggag
+ABEG02001922.1/ caaaugaaaaaaaac-cucucagggccuu--gaauaagacccagugaacuauuuuuggag
+ABEG02002681.1/ -auucuuaugaauau-acugcagggccuu--caucaagacccagugaacaauuuuuggga
+ABLE03002930.1/ -aauuauaucccauu-guuacagggccuu--uaagaagacccacaguacaauuuuugaaa
+AY948610.1/10-9 -acuuaaauaacaaaaaacccaaagccua--acucaggacuuggu-aacaauuuuuggag
+CAAC02000563.1/ uuugcuagucuaucu-cuugccgggccuu--ccucaagacccuaagcacaauuuuugggc
+ABLG01001501.1/ aacguuaccguuuuu--aucgcgggccuuaaguugaagacccagcguuacauuuuuugga
+                                      ..****       *.***          ******    
+
+AAQA01004525.1/ gccuucccag-------gagggagggcaa
+AY948626.1/1-77 cccugucucu-------cgaggcaggg-g
+AAGD02000138.1/ cccuguucuu-------cggagcaggg-g
+ABEG02007269.1/ cccuuuccuu-------cgggucagggua
+ABLE03034152.1/ cccuguccuu-----cuuuggucagggua
+CAAC02000462.1/ acccuguucuaauauuuuaggacagggua
+AAGD02003917.1/ acccuguccu--------uuaguagggug
+AAGD02001043.1/ acccuguccu----ucauugggcaggg-a
+AY948625.1/1-79 acccuaucua-----gccgugauagggug
+AY948621.1/1-78 acccugucuu------cuugaaggcgggg
+ABEG02000330.1/ acccuaaucu------gaggaauagggug
+ABEG02002029.1/ acccuucucu------ucggauuagggug
+ABEG02000330.1/ acccuauucu------caggaauagggug
+ABEG02000320.1/ acccuauucu------ucggaguagggug
+ABEG02001922.1/ acccuauucg------aaaggauaggaug
+ABEG02002681.1/ cccuauucuu--------ugaauagggua
+ABLE03002930.1/ acccugcucu----uucuagaucagggug
+AY948610.1/10-9 acccuaacuu----uuauuaguuagggug
+CAAC02000563.1/ acccgucgca------gcaacggcgggug
+ABLG01001501.1/ gucccgc-----------gggagcgggau
+                  *                      *   

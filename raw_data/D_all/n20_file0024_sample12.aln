@@ -1,0 +1,68 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AF375054.1/1920 uugucagugagguuaa--uccuuaccuguuccuucuccgggaga-----------aacag
+AANN01499785.1/ ucgucaguaagguuaa--uccuuaccuguuccuccucuggagggcag--------auacg
+AAPY01187975.1/ uggucaggu-ggauaa--uccuuaccuguuccuccuucgggaaggca--------gauag
+AAGW02049536.1/ ucgucaggugggauaa--uccuuaccuguuccuccuuuuggagggca--------gauag
+AANU01204695.1/ ucgucaggugggauaa--uccuuaccuguuccucuuuuggagggcag--------auuag
+AC090233.16/199 ucaucaggugggauaa--uccuuaccuguuccucguuuuggagggca--------gauag
+AADC01102901.1/ cugucaggugggauaa--cccuucccuguuccuccguuuggagggca--------gauag
+AALT01511605.1/ uugucaaguaggauaa--ucccuaccuguuucucuuuucagagggca--------gauag
+AAIY01100313.1/ ucguuaguaagguuaa--uccuuaccuauuccuccuuuuggagaaca--------gaggu
+AAPN01229839.1/ uuguugguagguuaua--uccucaccuguuucuccuucgggaga-----------gugga
+AAWZ02027083.1/ ucgucagugagguaua--uccugaccuguuccuccuccgggagaa----------acagu
+BAAF04059230.1/ ucuucagugagguaca--uccuuaccuguuacucccuccggggagu---------uucag
+CAAB02006582.1/ ucuucagugagguaua--uccuuaccuguuacuucagaaaugaagu---------ugcag
+AABS01000060.1/ ucaucaguucggguga--uccuuaccuguuguccauauauggacuuc------agauaag
+ABGP01000229.1/ cuaucagu-aggguga--uccuuaccuguugucucuuaaaugagacacagauuaaggaua
+AY948613.1/4-12 ucuucaguaugggucaaucucugaucugc--------------------------aacug
+ABLE03026268.1/ ucuucaguaugggucaauuucugaucugc--------------------------aacug
+CAAC02000550.1/ ucuucaguaugggucaaauauugaucugc--------------------------aacug
+AAGD02012178.1/ ucuucaguaugggucaaauauugaucugc--------------------------aacug
+ABEG02006923.1/ ucaucaguaugggucaaucucugaucugc--------------------------aacug
+                   * ..   *    *         **.                                
+
+AF375054.1/1920 cacaugaugaau--ggaggagacugagucgcugauuacucuguacuccgguccu--gucu
+AANN01499785.1/ aacaugaugauu--ggaguacacaugauucgugauuaacgacucuguguaguc---aggg
+AAPY01187975.1/ aacaugaugauu--ggaguucgcgugauacgugauuagcgucucugcgucauc---ggga
+AAGW02049536.1/ aacaugaugauu--ggaguucgcaugaugcgugauuagcgucucugcguaauc---agga
+AANU01204695.1/ aacaugaugauu--ggagaaugcaugaaacgugauuaacgucucugcguaauc---agga
+AC090233.16/199 aacaggauaauu--ggaguuugcaugauccaugauuaaugucucuguguaauc---agga
+AADC01102901.1/ aacaugaugacu--ggag-augcaugaaaugugacuaaugucucuguguaauc---agga
+AALT01511605.1/ aacaugaugauu--ggagcuugcaugauuugugauuaacaucucugugugauu---aggg
+AAIY01100313.1/ aaaaugaugauu--ggagcucacgugauacgugauuagcgucucugugugagc---agga
+AAPN01229839.1/ uauaugaugauu--ggaguucgcaugacacgugauuagugucuccgcgacgauuggggag
+AAWZ02027083.1/ gaaaugaugaau--ggaggcagcaugagacaugauuagagucucccgcuggcc---gggg
+BAAF04059230.1/ uacaugaugaau--ggaguau-uaugagacaugauuaaugucucccucuuaga---agga
+CAAB02006582.1/ aaaaugaugaau--ggaggcagcaugaggaaugauuauauguccucugucaugu-uggga
+AABS01000060.1/ uacaugaugacac-uggguuuaugaguuugaugacuuauaauaucccuugccu---ugua
+ABGP01000229.1/ cacaugaugauccgagaguaugacuauuccaugaauuaaaacucucgcauagc---agag
+AY948613.1/4-12 aauaugaugaguucgggcgaugaucuucu-gugauua-caucgcacggcgagg---uggg
+ABLE03026268.1/ aauaugaugaguucgggcaaugauucuuu-gugauua-cauugcacggcgagg---uggg
+CAAC02000550.1/ aauaugaugaguucgggcgaugaucuuuc-gugauua-caucgcacggcgaag---uggg
+AAGD02012178.1/ aauaugaugaguucgggcgaugauccucu-gugauua-caucgcagggcgagu---uggg
+ABEG02006923.1/ aacaugaugaaaacgggcgaugauccuuuggugauua-uaacgcacggcgagg---aggg
+                 * * ***.*     *.              *** *                        
+
+AF375054.1/1920 ggugugacauuccag--ucugggucau---ucugau
+AANN01499785.1/ cuugcaacacccuga---uugcuccua---ucugau
+AAPY01187975.1/ cuugcaacacccugc---uugcuccua---ucugau
+AAGW02049536.1/ cuugcaacacccuga---uugcuccua---ucugau
+AANU01204695.1/ cuugcaacacccuga---uugcuccua---ucugau
+AC090233.16/199 cuugcaa-acucuga---uuguucaua---ucugau
+AADC01102901.1/ cuugcaacacccuga---uugcuccua---ucugau
+AALT01511605.1/ cucaaaacacccuaa---uugcucuuu---ucugau
+AAIY01100313.1/ cuugcaacauccugu---uugcgucua---ucugau
+AAPN01229839.1/ cugacaacaccccaa---uuguuccua---ucugau
+AAWZ02027083.1/ aacgcaacgccccgg--ccugcuccuu---ucugau
+BAAF04059230.1/ acggcaacaccuccu---aagagccau---ucugau
+CAAB02006582.1/ acagcaacacccuuc---augacccau---ucugau
+AABS01000060.1/ cugguaacaacacac-cagugcuugguaugucugag
+ABGP01000229.1/ ccggcgacgacuuug-uuaugguug------cugac
+AY948613.1/4-12 aacgcaauacccgccugccagcccgau---ucugaa
+ABLE03026268.1/ aacgcaauaccugccugucagcccgau---ucugaa
+CAAC02000550.1/ aacgcaauaccugcuugccagcccgau---ucugaa
+AAGD02012178.1/ aacgcaauaccugacugccagcccggu---ucugac
+ABEG02006923.1/ aacgcaauacccaccugucugcccgaa---ucugag
+                   . .* .           *          **** 

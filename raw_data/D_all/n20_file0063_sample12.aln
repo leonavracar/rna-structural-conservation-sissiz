@@ -1,0 +1,68 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AACY020048217.1 aauauacauuaagag----aagguuaagac----cucagcaaccuggau-------gacu
+AACY024064010.1 guaaagcauaaagag----aagguuaagac----cucggcaaccuggau-------gacu
+AACY021642302.1 ugaaugcauagagag----aggaau-------uccucagcaaccuaguu--------gcc
+AACY020259813.1 uaguugcauaaagag----aaggaa-------acuucagcaaccuagua--------gcc
+AACY020280463.1 aucacacaugaagag----aggacugacgu----cccgccaaccugccc-------ggac
+AACY023898889.1 uucuggcaucuagag----cgagauuaaau--ucuccuccaaccugcca-------acuc
+AACY023630570.1 uauugguaucaagag----cgggauuaaau--ucuccuccaaccugcca-------acuc
+AACY020219775.1 caucaacaucaagag----aaagauugggu--ucuucuccaaccugcua-------acuc
+AACY020375700.1 aauauauaucaugag----aaggauuuauu--uccucuccaaccugcca-------acuc
+CP000529.1/4203 agacaacaucaagac----uggauagaaau-auucagaccaaccugcca-------acuc
+CP000248.1/7228 ccccaacaucgagagu---uggggugacgc-uccaacgccaaccugccg-------uucc
+AACY021320796.1 uaaaggcauuacgaguggucugguuaaaacuagauccggcaaccuggga-------ggac
+AM421808.1/4416 gcgcugcauuaagaguu--gggaau-------uccaugccaaccugcuuuucaaaaggaa
+AAOA01000009.1/ aaggggcaucaagag----ggguucg------uccccaccaaccgccca-------cucc
+AAGA01001063.1/ auaaauuaucaagaaucu-caauaaaagga----gauagcaaccugcaa-------uaac
+AACY021623362.1 gcgcuacaucaagaauacuuaag---------uguauaccaaccgaacg-----------
+AACY020597859.1 caauugcaucaggaaucccaaa----------uggguaccaaccgagaga-----acaua
+AACY023409075.1 guauugcauaaugaacguuuuua---------aacguaccaaccgacau-------cuca
+AACY020423913.1 guugagcaucaagaacgcuaa-----------ugcguaccaaccgacac------gcucg
+AANA01000001.1/ uggcaguaucaggaacgcaagaau--------ugcguaccaaccgagca-------aaaa
+                       **   **                         *****                
+
+AACY020048217.1 auccaaggugcuu------------------------------------gaagauguggc
+AACY024064010.1 auccaaggugcuu------------------------------------gaaaauguggc
+AACY021642302.1 aacuaaggugcuu------------------------------------uuugauguggu
+AACY020259813.1 aacuaaggugcuu------------------------------------uuugauguggu
+AACY020280463.1 cggcaaggugguuccccuccc---------------------------ggggcaugcgac
+AACY023898889.1 cggcaaggugg-----------------------------------aaaaaugaugcggu
+AACY023630570.1 cggcaaggugg----------------------------------aaaaaaugaugcggu
+AACY020219775.1 aggcaaggugg----------------------------------aauaaaagauguggu
+AACY020375700.1 cggcaaggugg-----------------------------------aaaaaagauaugg-
+CP000529.1/4203 gggcaaggugguu-----------------------------agcgaaagcagauggggc
+CP000248.1/7228 gggcaaggugguacccgauccgcaaggcggccccggccgaauugcgaaaggggauguggc
+AACY021320796.1 acccaaggugcccgcucauccgcaa--------------------ggaagaggauguggc
+AM421808.1/4416 aaguaagguggac---------------------------gguugaaaagccgauguggc
+AAOA01000009.1/ gggaacggugguu-----------------------------------aaucgaugcgcc
+AAGA01001063.1/ aagcaaggugcua-----------------------------------aauagauaagcc
+AACY021623362.1 -auaacggugguu-----------------------------------uaacgauguggg
+AACY020597859.1 cuccacgguggua-----------------------------------aaacgaugcgga
+AACY023409075.1 uugcacggugguu------------------------------------uugaauguggg
+AACY020423913.1 uugcacggugguu------------------------------------uagaauguggg
+AANA01000001.1/ agcuacggugguu------------------------------------uaguauacgga
+                    * ****                                           **. *  
+
+AACY020048217.1 agaaa-------------------ugcaacuaacuagucaaa-a
+AACY024064010.1 agaaa-------------------ugcaacuaaauagucaaa-a
+AACY021642302.1 uauac-------------------aacaaaaaauggcguuc---
+AACY020259813.1 uaaau-------------------aacaaaaaauggcuucuu--
+AACY020280463.1 caaag-------------------gguaaccaaguguccaug-a
+AACY023898889.1 uaacc-------------------aacaaauaaaggaguuaa-a
+AACY023630570.1 uaacc-------------------aacaaccaaaggagucua-a
+AACY020219775.1 uaacc-------------------aacaauuaaaugagguaa-u
+AACY020375700.1 cguuc-------------------agcaaauaauggaggugu-g
+CP000529.1/4203 uucuc-----------------gaagcaaccaaacgagccau-u
+CP000248.1/7228 cgauc------------------cggcaaccaaacggacacg-g
+AACY021320796.1 cugaa-----------------agggcaacaaaguguccggu--
+AM421808.1/4416 ucacc-----------------agagcaauccaaacccgcuuga
+AAOA01000009.1/ auaggcccugcugcgcagguauggaacaaaaaggagaua----u
+AAGA01001063.1/ aaguaau--------------uggaacaaauguuaaauc-----
+AACY021623362.1 cauccuagu------------caaagucgauucucaua------
+AACY020597859.1 ccggaaggu------------caaaauaaaaguaaucu------
+AACY023409075.1 ugucucugc------------caaaauuaugagaaau-------
+AACY020423913.1 uggcucuac------------caaacuaaucgagcuuuc-----
+AANA01000001.1/ caguucugu------------caaaauaaaugaacaucc-----
+                                            .               

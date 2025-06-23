@@ -1,0 +1,67 @@
+CLUSTAL W (1.8) multiple sequence alignment
+
+
+AACY023448407_1/161-213             AGCGCCGAATAC--------GAAA---------------GAGACGACGCGAGGTA----G
+AACY020126282_1/48-101              AACGTCGAAATGC-------AGAGC-------------GAAGACGACGCGAAGC-----T
+AACY023101112_1/473-526             ACCGAAGAAACAGC------TAAG-------------GCAGACCGACGCGAGGT-----C
+AACY023718955_1/294-346             GCCGAGGATACAG-------AGTA--------------CAGGACGACGCGAGAC-----A
+AACY023143063_1/136-83              ATCGCCGATAACC-------CCACA-------------AAAGACGACGCGAGGC-----G
+AACY021541586_1/301-246             AGCGGGGACACTGA------AGATG------------CCAAAACGACGCGAAAC-----C
+AACY023895541_1/302-248             ATCGGAGACACC--------CAAATC-------------GGGACGACGCGAGTC-----C
+AACY020389036_1/1135-1187           ACCGGGGAAACC--------GACAA--------------GAGACGACGCGAGGC-----T
+AACY021524998_1/714-771             ACCGTCGACGCAC-------CAAAAG------------GGGAACGACGCGAAGTGT---C
+AACY022220894_1/563-509             TACGTCGAAACA--------AA-----------------TAGACGACGCGAGGAC----G
+AACY020157868_1/334-389             ACCGAGGATACTGA------AGAAG------------ACGAAACGACGCGAAAC-----G
+AACY023583366_1/677-623             AACGTAGAAAGAGC------ACTTA------------GCAAAACGACGCGAGG------G
+AACY021112096_1/9-58                AGCGTAGAAGTC--------AAAT---------------GGGGCGACGCGAAGC-----C
+AACY020445308_1/1072-1126           AGCGGAGAATACGG------TGAA-------------ACAGAACGACGCGAAG------C
+AACY023865164_1/48-165              AGCGAAGAACGA--------AAACT--------------AAGACGACGCGAGGAAGCA-A
+AACY021890349_1/593-642             ACCGGCGAAAA---------CAAAC---------------GGACGACGCGAGGC-----C
+AACY020235333_1/134-79              ACCGTAGAAATCGCC-----CTA-------------GGCAAAACGACGCGAGGT-----C
+AAXW01000008_1/84668-84587          GACGTAGATTACTACACCGAGGCGAGTAAAACACGTGAAGGGACGACGCGAGGCAG---T
+AACY023550809_1/726-595             ATCGTCGAGATAGGGGACG-GCTGA-------CTCGCACTGAACGACGCGAGG-AACCCC
+AACY023216978_1/742-690             AACGACGAGGAC--------GAAA---------------GAGACGACGCGAGGGA----C
+
+AACY023448407_1/161-213             GG-A--------------------------------------------------------
+AACY020126282_1/48-101              AA-A--------------------------------------------------------
+AACY023101112_1/473-526             GA----------------------------------------------------------
+AACY023718955_1/294-346             CA-A--------------------------------------------------------
+AACY023143063_1/136-83              TG-A--------------------------------------------------------
+AACY021541586_1/301-246             GA-A--------------------------------------------------------
+AACY023895541_1/302-248             CC-GCA------------------------------------------------------
+AACY020389036_1/1135-1187           GAGC--------------------------------------------------------
+AACY021524998_1/714-771             AT----------------------------------------------------------
+AACY022220894_1/563-509             GAAATAT-----------------------------------------------------
+AACY020157868_1/334-389             GA-A--------------------------------------------------------
+AACY023583366_1/677-623             GG-AC-------------------------------------------------------
+AACY021112096_1/9-58                CC----------------------------------------------------------
+AACY020445308_1/1072-1126           GA-AAA------------------------------------------------------
+AACY023865164_1/48-165              GGAACAGAGACAGCTGAACGCGAACAACAGCAGACCCGCGGTACCGCAATCGTCCAAACT
+AACY021890349_1/593-642             CA-T--------------------------------------------------------
+AACY020235333_1/134-79              GA-A--------------------------------------------------------
+AAXW01000008_1/84668-84587          CAGCACG-----------------------------------------------------
+AACY023550809_1/726-595             GGAAAACAAGCCCCGACGAAGACATAGACAGAAGCGACGGAAAAAGGGGAACCAAGGAAG
+AACY023216978_1/742-690             AG-A--------------------------------------------------------
+
+AACY023448407_1/161-213             -----CACAGCACGGAAAACCA
+AACY020126282_1/48-101              ------GCAGAACGGAAAACCC
+AACY023101112_1/473-526             ------ACGGCACGGAAAATGG
+AACY023718955_1/294-346             ------GGAGGACGGAAAACCA
+AACY023143063_1/136-83              ------ACAGTACGGAAAACCA
+AACY021541586_1/301-246             ------GGAGCACGGAAAAGGT
+AACY023895541_1/302-248             ------GAAGTACGGAAAACCT
+AACY020389036_1/1135-1187           ------GCAGCACGGAAAACCT
+AACY021524998_1/714-771             ----ACGCAGCACGGAAAACGT
+AACY022220894_1/563-509             -----AGCAGAACGGAAAACCG
+AACY020157868_1/334-389             ------GAAGGACGGAAAAAAA
+AACY023583366_1/677-623             -------CGGAACGGAAAACAC
+AACY021112096_1/9-58                ------GCGGTACGGAAAACCC
+AACY020445308_1/1072-1126           -------CGGAACGGAAAAAGC
+AACY023865164_1/48-165              G-AGCAACGGAACGGAAAACCA
+AACY021890349_1/593-642             ------GCAGAACAGAAAACCT
+AACY020235333_1/134-79              ------ACGGCACGGAAAACGG
+AAXW01000008_1/84668-84587          ----AAGCCGAACGGAAAACCT
+AACY023550809_1/726-595             -GGGCTACGGCACGGAAAACGA
+AACY023216978_1/742-690             -----TACAGGACGGAAAACCA
+
+

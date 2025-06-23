@@ -1,0 +1,67 @@
+CLUSTAL W (1.8) multiple sequence alignment
+
+
+U77945_1/1848-1919                  ACGGCGGCGGCCCG-----GAAC---GAGACGGACGAGGTCC------------------
+AB022308_1/6486-6569                GCGGCGACGAGCCTG----GAAA-CGTGCCCGGACGACTACC------------------
+V00712_1/1227-1289                  GCGGCGAATGGCCGGG---GAAA-CTGGCACGGCAAAGAGAG------------------
+X17395_1/1934-1994                  GCGGCGACGGGCCGGG---GAAA-CGGGCACGAAAAAGCGAA------------------
+AB027572_1/1941-1862                AAAGCGACAGACAGAA---CAAA-AACACACGAAAGAACGTCA-----------------
+AJ131145_1/1727-1802                GCGGCGACACCCCCAG---GAAA-CCGCCAAGCGAGACTACCC-----------------
+AF029891_1/4522-4594                ACCGCGACCGCCCAAG---GAAA-GGGTCATGCAAGACAACC------------------
+AF143421_1/868-1007                 GATGCGGCCGCCCGGG---GAAA-CCGGCCCGCAAGAACACCAAGAACCAAAGCTGAGAT
+X86563_2/124917-124799              ACAGCGGGAGCGCCAC--GGGGA-GAAGAACGCGACAACACG------------------
+X57546_1/2817-2907                  GAAGCGACAGCCAGAC---GAAA-GTGGCACGCAAGAGAGCC------------------
+Z00044_2/44465-44397                CAGACGACGACCAGG-CAAGAAA-TTGGCAGGCAAGAAGAAC------------------
+Y18999_2/2881-2957                  GAGGCGACGGGCCAGG---GCGA-CCGCCACGCCAGAGCGTC------------------
+L36897_1/2659-2743                  GAAACGACTGGCTCGG---GAAA-CCAGCAAGAAAGAATTCC------------------
+X05422_1/3488-3558                  AAGGCGACTCTCCAA---CGAAAA-GATCAAACAAGAGGACC------------------
+AJ277126_1/2879-2953                ACGGCGGCGGCCCGGA---GAAA-GCGGCACGGAAGAGCACC------------------
+X02819_1/3326-3410                  GAGCCGACGGCTGCAA--CGAAA-GTGGCCGGCAAGAGCACC------------------
+M15176_1/580-656                    AAGGCGACGGCCAGA---AGAAAC-TGCCACGACAAAAGAGTC-----------------
+V00166_1/1829-1941                  GCGGCGGGAGCTCTAT---GAAA-GGGGCACGCGAAAGAGAA------------------
+X04465_1/8-84                       AAAGCGACCGACAAAC---GAAA-AAAGCACGTAAGATGGAC------------------
+DQ787115_1/750-834                  GCGGCGACCGGCCGGT---GAAA-GGCGCACGAACGATCACC------------------
+
+U77945_1/1848-1919                  ------TCCAAGG------------------------------------------ACGGC
+AB022308_1/6486-6569                -----AGGAGGGGAAA-----------------------------------AGCTGGAGA
+V00712_1/1227-1289                  ------GCGGGGG-----------------------------------------------
+X17395_1/1934-1994                  ------GCGGGGG-----------------------------------------------
+AB027572_1/1941-1862                -----ACCGGAGA-----------------------------------------CGTTAA
+AJ131145_1/1727-1802                ----GAGCGGGGG----------------------------------------------A
+AF029891_1/4522-4594                -----AGTGGGGG---------------------------------------------AA
+AF143421_1/868-1007                 AGACCAGAGGGGCCCACAGCAAGAAGACAATAA--AAGAAGGGGCCCGCCAGAAGGGACC
+X86563_2/124917-124799              ------GGGAAAGGGAGCGCGCCGGCGAATCAGACTAGTAGGAAGCACCCAAAAGGTTGG
+X57546_1/2817-2907                  ------ATGGAGAGCTCACA---------------------------ATCGATAGCCAAG
+Z00044_2/44465-44397                -----AGTGGGGT-----------------------------------------------
+Y18999_2/2881-2957                  ------ACGGGAA-----------------------------------------GGCGGC
+L36897_1/2659-2743                  ------GTAGAGCACTC---------------------------------GAACACGCGG
+X05422_1/3488-3558                  -----GGTGGGGT-----------------------------------------------
+AJ277126_1/2879-2953                -----AGACGGGG---------------------------------------------AA
+X02819_1/3326-3410                  ------GGGAAACCCG-----------------------------------GGACAACCC
+M15176_1/580-656                    -----AGCGGAGG--------------------------------------------TGG
+V00166_1/1829-1941                  ------GGGAGAGATACCGGCATCGGAGGCA-----CGCCGGAGCAAAATCAGTCGGGGG
+X04465_1/8-84                       -----CAAAGAGG-------------------------------------------CAAC
+DQ787115_1/750-834                  -----AGTAGGGGAAA-----------------------------------AAAAGGAGA
+
+U77945_1/1848-1919                  GGGCGGGAACCGGCCCCGAGGA-CG--AC
+AB022308_1/6486-6569                AGACGTCAAAACGCAGCGAGGG-CG-AAT
+V00712_1/1227-1289                  ----------CATCCGGGAGGA-GGACCG
+X17395_1/1934-1994                  ----------CACTCGTCAGGA-CT--AC
+AB027572_1/1941-1862                AAAGAAACAACCAAACCGGGAA-TG-AAC
+AJ131145_1/1727-1802                GACAGGAAAGACCCCGCGAGGG-AG-GAG
+AF029891_1/4522-4594                GAGCAGAGAGGCGTCACGGGGG-GA---A
+AF143421_1/868-1007                 AGCCCGGAAGCAGCCCCGCGAG-AC--GA
+X86563_2/124917-124799              CACGGAGGGGCCGCCGCCAGTG-AT--AC
+X57546_1/2817-2907                  CAAACCAGAGATACCGGGAGCG-AC--AC
+Z00044_2/44465-44397                ------AACAGCAACACGAGGA-CG-GGC
+Y18999_2/2881-2957                  CGAGAAAAGCGGGCCCGGAGCG-CA--AC
+L36897_1/2659-2743                  ACACAAAGGTACTTCAGGAGCG-AA--AG
+X05422_1/3488-3558                  --AGGCGGGCACGGAACGGGGG-CC-AAG
+AJ277126_1/2879-2953                AAGCGGAGAAGCTCCACGGGGG-CA-GAA
+X02819_1/3326-3410                  GGCAAAGGGAAACTCACGAGGGTAA--AC
+M15176_1/580-656                    AACCAAGAAGGCAGAATGGGAA-CG-AAC
+V00166_1/1829-1941                  CACAGAGAGGCGCCCGGCAGGG-CA--GC
+X04465_1/8-84                       TCAGGTAACCGCTGCATGGGAT-AT-TCC
+DQ787115_1/750-834                  ATACAGCAAAGCGAGACGAGGG-CA-CAT
+
+

@@ -1,0 +1,67 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AACY020037845.1                     ---------CCGCGCGAAGGGTGGACGTGCAAAAAC------------------------
+AACY020920919.1                     GTCCAGCCCC---------GGCAGCAGTGGCAGAGA------------------------
+AAOG01000001.1/                     GTAGAGCCCA---------GGGAGAAGGGGCAGGAG------------------------
+AM398681.1/5572                     GCTGAGCCCC---------GGGAGAAGGGGAAAGAC------------------------
+AM398681.1/7756                     CCCGAGCCCC---------GGTAGCAGTGGAAAATC------------------------
+AM398681.1/1728                     CCCTAGCCCC---------GGCAGCAGTGGAAAGTC------------------------
+AM398681.1/9090                     CCCTAGCCCG---------GGCTGCAGTGGAAAAGCT-----------------------
+CP000685.1/4304                     TGCAAGCCCC---------GGAAGCAGTAGAAAAAC------------------------
+CP000685.1/4306                     CACCAGCCCC---------GGAGGCAGGGGAAAAGC------------------------
+CP000685.1/3138                     ACGGAGCCCC---------GGCAGCAGGGGAAAACC------------------------
+AM398681.1/1939                     AGGCAGCCCC---------GGGAGCAGCGGAAAATCTTACGTTTGACTTCCTCCGAGTGG
+AM398681.1/7900                     CTCTAGCCCG---------GGCGGAAGCGGAAAACCCCGCCAT-----------------
+AM398681.1/2364                     CACTAGCCCA---------GGTGGAAGAGGAAAAACACGCCAT-----------------
+AM398681.1/2367                     GTTCAGCCCC---------GGTAGAAGGGGAAATACCCGCCAT-----------------
+AM398681.1/1526                     AT---GCCCCGGCGTGAGGGGAGGAAGCGCAAACCC------------------------
+AAGA01025318.1/                     ---------CAGCGTTAGCGGGGGAAGCGCCATCGG------------------------
+AAFY01026635.1/                     ---------CAGCGTCAGGGGCTGGAAAGCCAACTA------------------------
+AACY023332939.1                     ---------CCGCGAAAGGGGCAGCAGCGCCAGCGC------------------------
+AE017226.1/1611                     CCCGGACAGC---------GACGGAAGAGCAAATCC------------------------
+AATN01001724.1/                     GACTAGCCCC---------GGAAGTAGCGGAAAAGGAAAAGGCCGCCA------------
+
+AACY020037845.1                     -CGGCCACGGAGCGGCCCA-----------------------------------------
+AACY020920919.1                     -AGGCGACGAG-------------------------------------------------
+AAOG01000001.1/                     -TACAGCATGCC------------------------------------------------
+AM398681.1/5572                     -ACTCGCATGCAGCCATAA-----------------------------------------
+AM398681.1/7756                     -AGACCTCAGGCGGGACGC-----------------------------------------
+AM398681.1/1728                     --GCCGTCAGGCTATCCGC-----------------------------------------
+AM398681.1/9090                     -CTGCGAAAGGACCCAGAA-----------------------------------------
+CP000685.1/4304                     -CGGCGCACCGGGGGACGG-----------------------------------------
+CP000685.1/4306                     -GATCGTACCGGCGCACGG-----------------------------------------
+CP000685.1/3138                     -ACCCGCACCGGAGGTCGG-----------------------------------------
+AM398681.1/1939                     CAGACGCGAGGAACAGAAG-----------------------------------------
+AM398681.1/7900                     -AAGCCTA----------------------------------------------------
+AM398681.1/2364                     -AAACCTA----------------------------------------------------
+AM398681.1/2367                     -AGGCCAA----------------------------------------------------
+AM398681.1/1526                     -ATTCCCCAGGCAATTCGC-----------------------------------------
+AAGA01025318.1/                     -GATCACCGGTCTCCACGAGACGC----------------------------------AG
+AAFY01026635.1/                     -TACCTACGCACGT----------------------------------------------
+AACY023332939.1                     -GTCCCGCAGCG------------------------------------------------
+AE017226.1/1611                     -CGGCCGCGGTGCGAACAAGGGACCACGAGAAGGGCACGGCTCCCGGCCGCAAAAGAGAG
+AATN01001724.1/                     -TGGAAGAGAAGCAGGGACT----------------------------------------
+
+AACY020037845.1                     ----------------AAAAAGATAGCAGCC-CCAGAAGAAGCGTCC
+AACY020920919.1                     -----------AGGC-CAAAAAGATAAAGCGACGAGAAGAAAGCCTA
+AAOG01000001.1/                     ----------------CAAAAAGAGACAGCGGCAAGAAAAAGCTCAA
+AM398681.1/5572                     -----------AAAA-CAAAAGAATGGAACGGCGAGAGGAACGATGC
+AM398681.1/7756                     -----------CGAA-AAAAAGAGGGAAACGACGAGAGAAACGGGCG
+AM398681.1/1728                     -----------CGA--AAAAAGAAGGCAACGGCGAGAGAAACTGGTA
+AM398681.1/9090                     -----------AAAACAAAAAGAATGCAGCGACAAGAGAAACGATAT
+CP000685.1/4304                     -----------CG---CAAAAGACCGCAACGACGAAAGGAACGAGCG
+CP000685.1/4306                     -----------CA---CAAAAGATTGAAGCGACGAGAAGAAGCGCCA
+CP000685.1/3138                     -----------CA---CAAAAGAGCGCAGCGGCAAGAAGAAGCGTAA
+AM398681.1/1939                     -----------CAAA-AAAAAGAGAGAAACGGCGAGAGGAAGGGCCG
+AM398681.1/7900                     ----------------GGCGAGATTGAAACGACAAGATGAGGAGCCG
+AM398681.1/2364                     ----------------GGCGAGACGGAAACG-CAAGAGAAGGGCGCT
+AM398681.1/2367                     ----------------GGCGAGATTGCAACGGCGAGAAGAAGCTTTA
+AM398681.1/1526                     -----------CGAAGAAAAAGAGGGGAACGGCCAGAGAAAAGGTAC
+AAGA01025318.1/                     CGAGAGGATGACAAA-GAAAAAGAGACAACGGCGAAAGGGAGGTCAC
+AAFY01026635.1/                     -----------CAAA-AAAAAAGAGAGAGGGACCAGACGAAGACCAC
+AACY023332939.1                     -------GAAACGGA-ACAAAAGAGCCAGCGACCAGAAGAAAGACTC
+AE017226.1/1611                     AAAGACAGAGACAGC-AAAAAGAACGGAGCGGCGAGAAGAGCACGAG
+AATN01001724.1/                     ----------------------AGTGGAACGGCAAGAAAAAGGGAAG
+
+

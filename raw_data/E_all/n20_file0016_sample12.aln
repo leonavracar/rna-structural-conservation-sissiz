@@ -1,0 +1,67 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+U77945.1/1848-1                     GGGCGGCGTCGC------CGAAACCGAACGCAGGCAACGGCGAGGAGAGAGCGGGG----
+AB022308.1/6486                     AAACGGCGTATCCAG---GACACTCGGCGGTAAGCGAAAGAAGGGGGAGCAAGCTGGAGA
+DQ787115.1/750-                     AGACGGCGCAACCGGG--GAAAGTCGGCGGCAAGCGTCAGAGGGGGGAGCAAAAAGGAGA
+AJ131145.1/1727                     CCACGGCGAGCACGAG--GAAACTGGGCAGCGAGCCTCGGGGGGGGGTTAAAGCCTGA--
+AF029891.1/4522                     ACACGGCGCGGACCAT--GAAAGAGGGCAGGAAGCTACAGAGGGGGGATGAGCCTGA---
+AJ277126.1/2879                     AGGCGGCGACGACGGT--GAAAGCCGGCCGCAAGCGCCAGAGGGGGGTTGAAGCCGC---
+Z00044.2/44465-                     ACACGGCGCGGAAGGCAAGAAAAGCGGCGGAAAGCCAAAGAAGGAAGCGGT---------
+X05422.1/3488-3                     GCACGGCGTGCAAGAA--GAAACCTAGCGAGAAGCCAGGGACGGGGGTGAACG-------
+X57546.1/2817-2                     ACACGGCGTGCAACAG--GAAAGTACGCGGAAAGCGACGGCGGGGGCACACGCACATGAT
+L36897.1/2659-2                     GAACGGCGTACAACGG--GAAACTATGCGGGAAACGACTACGTGGGCAGAGTAACACGAG
+V00712.1/1227-1                     GCTAGGATCGCACGGG--GAAACGCGGCGGTCAGCGAAGGGGCAGAGACGGCGACGACCC
+X17395.1/1934-1                     GTACGGAGCGCACGGG--GAAACTCGGCGGTAAGCGCAGGGGCAGAGAGGGCGACGACCC
+V00166.1/1829-1                     GCGGGGACAGAACGAA--GAAAGTGGATGGCGAGCGAAAGCGTCAGGACGATGCCTAACG
+X04465.1/8-84                       TTACGGCGCAAAAAAT--GAAAACACGCCGAAAACAGAAACGAGAGGGGAAATTA-----
+AB027572.1/1941                     ACACGGCGAGGAAAAT--CAAAATGCGCGGGAAACATTCGAGGGGAAGACGTAAAA----
+M15176.1/580-65                     CTACGGCGGGAAAGAA--GAAACCCGGCTGTCAACACAACAGGAGAAGAGGGAACG----
+Y18999.2/2881-2                     ACACGGCGGGTAAGGG--GCAACGCCGCAGACGGCCAGCGGAGGAGCTTGGGCGC-----
+AF143421.1/868-                     ACGCGGCGCGTAAAGG--GACACCACGCGGCAAGCGCCAGAGGGACCAGAAGGAGAAAGA
+X02819.1/3326-3                     CCACGGCGGGGAAAAAC-GACAGTAGACGGTAAGCGGCGCCGCGAGGAGAGGCCAACCCT
+X86563.2/124917                     GCGGGGGCAGTACAACG-GGAAGACGAAGGCGGACAGCAGGGGCAGCATAGCGCACCCGA
+
+U77945.1/1848-1                     ------------------------------------------------------------
+AB022308.1/6486                     CAACT-----------------------------------------------------AC
+DQ787115.1/750-                     TAACA-----------------------------------------------------GC
+AJ131145.1/1727                     ------------------------------------------------------------
+AF029891.1/4522                     ------------------------------------------------------------
+AJ277126.1/2879                     ------------------------------------------------------------
+Z00044.2/44465-                     ------------------------------------------------------------
+X05422.1/3488-3                     ------------------------------------------------------------
+X57546.1/2817-2                     AGCTAGCGGAACATA---------------------------------------------
+L36897.1/2659-2                     GCAAC-------------------------------------------------------
+V00712.1/1227-1                     AAC---------------------------------------------------------
+X17395.1/1934-1                     GAC---------------------------------------------------------
+V00166.1/1829-1                     GGGGC--------------------AGGAGTCCCTAGGGCGGGACGAAGGAAGGCCACGC
+X04465.1/8-84                       ------------------------------------------------------------
+AB027572.1/1941                     ------------------------------------------------------------
+M15176.1/580-65                     ------------------------------------------------------------
+Y18999.2/2881-2                     ------------------------------------------------------------
+AF143421.1/868-                     TCCCGGCCGAAGGCGACCAACGCAAAAAAGGGGGAACCTGGAGGCAAACGCGAAGCCACC
+X02819.1/3326-3                     GCAAA-------------------------------------------------------
+X86563.2/124917                     AAAGGAGAGGACAACCACAAT---------------GGCAGGGATACACGCGGGCGAGGC
+
+U77945.1/1848-1                     GTGAATCCGCACCCTACGCG----AT
+AB022308.1/6486                     AAAAGCAGACACAGCACA------AG
+DQ787115.1/750-                     AAAGATCTACTCAACGCC------AC
+AJ131145.1/1727                     AAGAGCCCACCCACCCCG------AC
+AF029891.1/4522                     GAGGACCTACGCATCCCA--------
+AJ277126.1/2879                     GAAGAGCGACACATCCCG------AC
+Z00044.2/44465-                     --TGAACCACTCAACCCG------GC
+X05422.1/3488-3                     GGCAAGCGACCCAACTCA------AC
+X57546.1/2817-2                     ACAGGCGTGCAACCCT--------AC
+L36897.1/2659-2                     ACAGGAAAATCCGCTAAGGC----AT
+V00712.1/1227-1                     ------------------------CT
+X17395.1/1934-1                     --------------------------
+V00166.1/1829-1                     GGTGGAGCACCCC-----------GC
+X04465.1/8-84                       GGGAACGAAATGGACAACCAAT--CC
+AB027572.1/1941                     AAAAATCAACACACGGCGACAAGAAC
+M15176.1/580-65                     AAGAAGGAACACTCGACAAG---AAC
+Y18999.2/2881-2                     AGCAATGCGCGACAGTCACCCG--AC
+AF143421.1/868-                     CGGAACACACTTCCGACCCC----GA
+X02819.1/3326-3                     GGGAAAGCGCCCCAGAACA-----AT
+X86563.2/124917                     GAGGACTAACACC-----------AC
+
+

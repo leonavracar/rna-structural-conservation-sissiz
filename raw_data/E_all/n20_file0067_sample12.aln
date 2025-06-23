@@ -1,0 +1,67 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.310)
+
+
+AACY023448407.1                     ATACCAGCCCACAC-----------------------AAGTACGAGGAAGACGTAAC---
+AACY023216978.1                     ATACCTGCCCAAAC-----------------------AAGAACGAGGAAGACGCAAC---
+AACY023895541.1                     AGACTGGCGATCGC---------------------TAACGAACGAGGAAAACAAAAC---
+AACY022220894.1                     CCACCGGCACCGAAG-------------------------CACGAGGAATACGAAG----
+AACY020126282.1                     ACACCAGCCCATACT--------------------GGCGAAACGAGGAAGACGAGA----
+AACY023718955.1                     CAACGCGCATCACG---------------------TCACAGACGAGGAAGACAAGA----
+AACY021541586.1                     AAACGCGCACATATA------------------CAATCCAGACGAGGAACAAAAGA----
+AACY020157868.1                     AAACGCGCCTAGAAA------------------GAAATCGGATGAGGAAAACAAGA----
+AACY023101112.1                     ATACAAGCCCCCGG-------------------GAAGGCAGGCGAGGAAGAGGAAA----
+AACY020445308.1                     AAACAAGCTCACGA-------------------CAAAACAGGGGAGGAAAACGAAA----
+AACY023583366.1                     ACACAAGCCCCGACA------------------GGAGGCAGGCGAGGAAAATGAAG----
+AACY020235333.1                     ATACAAGCCCGCAAC------------------CGCGGCAGGCGAGGAATAGGAAA----
+AACY023143063.1                     AAACATGCCCGAACA--------------------ATAAATACGAGGAATACGATA----
+AACY021112096.1                     ATACAAGCTCACGC-----------------------ACGCGAGAGGAAGACGCAA----
+AACY020389036.1                     ATACGAGCTCTTAC----------------------ACAGTACGAGGAACACGCAT----
+AACY021890349.1                     AGACCGACACCCGG------------------------ACCACGAGGAACACGGAC----
+AACY021524998.1                     AAACCAGCCCACGA-------------------TAATAGCTACGAGGAAGAAGCGGAG--
+AACY023550809.1                     AAACTAGCACCCGAGCGCGAATGTT--------GGGCATACGCGAGGAAAACGGAAACCT
+AAXW01000008.1/                     GCACACGCTCATGCCAAGGGAACGTAGAACACAAGCGAAGCACGAGGAAAACGAGGGT--
+AACY023865164.1                     AAACGGGCACTCAT----------------------ACAAAGCGAGGAAAACGGAGACAC
+
+AACY023448407.1                     ------------------------------------------------------------
+AACY023216978.1                     ------------------------------------------------------------
+AACY023895541.1                     ------------------------------------------------------------
+AACY022220894.1                     --------------------------------------------------------AAAA
+AACY020126282.1                     ------------------------------------------------------------
+AACY023718955.1                     ------------------------------------------------------------
+AACY021541586.1                     ------------------------------------------------------------
+AACY020157868.1                     ------------------------------------------------------------
+AACY023101112.1                     ------------------------------------------------------------
+AACY020445308.1                     ------------------------------------------------------------
+AACY023583366.1                     ------------------------------------------------------------
+AACY020235333.1                     ------------------------------------------------------------
+AACY023143063.1                     ------------------------------------------------------------
+AACY021112096.1                     ------------------------------------------------------------
+AACY020389036.1                     ------------------------------------------------------------
+AACY021890349.1                     ------------------------------------------------------------
+AACY021524998.1                     ------------------------------------------------------------
+AACY023550809.1                     GAAAGCCCAAGGGAAGAAAAGACGGGAAACAACCCCAAAAGGACCGACAGCCGAAAAAAG
+AAXW01000008.1/                     --------------------------------------------------------ACCA
+AACY023865164.1                     GGGCCACAATCAGAGAAGGCAGGGCACAGGACACGGGCGGTGGGCACAACAGCCAAAAAG
+
+AACY023448407.1                     -GAAGGACAGGCGAACGGCC
+AACY023216978.1                     -GAAGGACAGGCGAACGGCA
+AACY023895541.1                     -CCGCGACAGGCGAACGGCT
+AACY022220894.1                     ATGCTGACAGGCGAACGGAC
+AACY020126282.1                     --AGCATCAGGCGAACGGCA
+AACY023718955.1                     --AGGGACAGGCGAACGGCG
+AACY021541586.1                     --AGGAACAGGCGAACGACG
+AACY020157868.1                     --AGGAACAGGCGAACGACT
+AACY023101112.1                     ---AGGGCAGGCGAACGAAC
+AACY020445308.1                     --AAGATCAGGCGAACGAGG
+AACY023583366.1                     ---CGGGCAGGCGAACGATC
+AACY020235333.1                     --AAGGGCAGGCGAACGAAG
+AACY023143063.1                     --GAGGACAGGCGAACGGGG
+AACY021112096.1                     ---GAACCAGGCGAACGGCG
+AACY020389036.1                     -GGGAGACAGGCGAACGGCC
+AACY021890349.1                     --AGAGACAGGAGAACGGCA
+AACY021524998.1                     -AAGCAACAGGCGAACGAGT
+AACY023550809.1                     TTAAGGACAGGCGAACGAAT
+AAXW01000008.1/                     TGAGGGACAGGCGAACGGCC
+AACY023865164.1                     AACAAGACAGGCGAACGGAC
+
+
